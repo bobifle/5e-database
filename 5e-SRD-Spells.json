@@ -8435,29 +8435,29 @@
 		"level": 0,
 		"school": {
 			"name": "Transmutation",
-			"url": "http://dnd5eapi.co/api/magic-schools/8"
+			"url": "http://www.dnd5eapi.co/api/magic-schools/8"
 		},
 		"classes": [
 			{
-				"url": "http://dnd5eapi.co/api/classes/2",
+				"url": "http://www.dnd5eapi.co/api/classes/2",
 				"name": "Bard"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/10",
+				"url": "http://www.dnd5eapi.co/api/classes/10",
 				"name": "Sorcerer"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/12",
+				"url": "http://www.dnd5eapi.co/api/classes/12",
 				"name": "Wizard"
 			}
 		],
 		"subclasses": [
 			{
 				"name": "Lore",
-				"url": "http://dnd5eapi.co/api/subclasses/2"
+				"url": "http://www.dnd5eapi.co/api/subclasses/2"
 			}
 		],
-		"url": "http://dnd5eapi.co/api/spells/191"
+		"url": "http://www.dnd5eapi.co/api/spells/191"
 	},
 	{
 		"index": 192,
@@ -8478,21 +8478,21 @@
 		"casting_time": "1 action",
 		"level": 9,
 		"school": {
-			"url": "http://dnd5eapi.co/api/magic-schools/5",
+			"url": "http://www.dnd5eapi.co/api/magic-schools/5",
 			"name": "Evocation"
 		},
 		"classes": [
 			{
-				"url": "http://dnd5eapi.co/api/classes/10",
+				"url": "http://www.dnd5eapi.co/api/classes/10",
 				"name": "Sorcerer"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/12",
+				"url": "http://www.dnd5eapi.co/api/classes/12",
 				"name": "Wizard"
 			}
 		],
 		"subclasses": [],
-		"url": "http://dnd5eapi.co/api/spells/192"
+		"url": "http://www.dnd5eapi.co/api/spells/192"
 	},
 	{
 		"index": 193,
@@ -8512,21 +8512,21 @@
 		"casting_time": "1 action",
 		"level": 8,
 		"school": {
-			"url": "http://dnd5eapi.co/api/magic-schools/1",
+			"url": "http://www.dnd5eapi.co/api/magic-schools/1",
 			"name": "Abjuration"
 		},
 		"classes": [
 			{
-				"url": "http://dnd5eapi.co/api/classes/2",
+				"url": "http://www.dnd5eapi.co/api/classes/2",
 				"name": "Bard"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/12",
+				"url": "http://www.dnd5eapi.co/api/classes/12",
 				"name": "Wizard"
 			}
 		],
 		"subclasses": [],
-		"url": "http://dnd5eapi.co/api/spells/193"
+		"url": "http://www.dnd5eapi.co/api/spells/193"
 	},
 	{
 		"index": 194,
@@ -8550,34 +8550,34 @@
 		"casting_time": "1 action",
 		"level": 0,
 		"school": {
-			"url": "http://dnd5eapi.co/api/magic-schools/6",
+			"url": "http://www.dnd5eapi.co/api/magic-schools/6",
 			"name": "Illusion"
 		},
 		"classes": [
 			{
-				"url": "http://dnd5eapi.co/api/classes/2",
+				"url": "http://www.dnd5eapi.co/api/classes/2",
 				"name": "Bard"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/10",
+				"url": "http://www.dnd5eapi.co/api/classes/10",
 				"name": "Sorcerer"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/11",
+				"url": "http://www.dnd5eapi.co/api/classes/11",
 				"name": "Warlock"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/12",
+				"url": "http://www.dnd5eapi.co/api/classes/12",
 				"name": "Wizard"
 			}
 		],
 		"subclasses": [
 			{
 				"name": "Lore",
-				"url": "http://dnd5eapi.co/api/subclasses/2"
+				"url": "http://www.dnd5eapi.co/api/subclasses/2"
 			}
 		],
-		"url": "http://dnd5eapi.co/api/spells/194"
+		"url": "http://www.dnd5eapi.co/api/spells/194"
 	},
 	{
 		"index": 195,
@@ -8600,25 +8600,25 @@
 		"casting_time": "10 minutes",
 		"level": 7,
 		"school": {
-			"url": "http://dnd5eapi.co/api/magic-schools/6",
+			"url": "http://www.dnd5eapi.co/api/magic-schools/6",
 			"name": "Illusion"
 		},
 		"classes": [
 			{
-				"url": "http://dnd5eapi.co/api/classes/2",
+				"url": "http://www.dnd5eapi.co/api/classes/2",
 				"name": "Bard"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/4",
+				"url": "http://www.dnd5eapi.co/api/classes/4",
 				"name": "Druid"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/12",
+				"url": "http://www.dnd5eapi.co/api/classes/12",
 				"name": "Wizard"
 			}
 		],
 		"subclasses": [],
-		"url": "http://dnd5eapi.co/api/spells/195"
+		"url": "http://www.dnd5eapi.co/api/spells/195"
 	},
 	{
 		"index": 196,
@@ -8642,34 +8642,34 @@
 		"casting_time": "1 action",
 		"level": 2,
 		"school": {
-			"url": "http://dnd5eapi.co/api/magic-schools/6",
+			"url": "http://www.dnd5eapi.co/api/magic-schools/6",
 			"name": "Illusion"
 		},
 		"classes": [
 			{
-				"url": "http://dnd5eapi.co/api/classes/10",
+				"url": "http://www.dnd5eapi.co/api/classes/10",
 				"name": "Sorcerer"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/11",
+				"url": "http://www.dnd5eapi.co/api/classes/11",
 				"name": "Warlock"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/12",
+				"url": "http://www.dnd5eapi.co/api/classes/12",
 				"name": "Wizard"
 			}
 		],
 		"subclasses": [
 			{
 				"name": "Lore",
-				"url": "http://dnd5eapi.co/api/subclasses/2"
+				"url": "http://www.dnd5eapi.co/api/subclasses/2"
 			},
 			{
 				"name": "Land",
-				"url": "http://dnd5eapi.co/api/subclasses/4"
+				"url": "http://www.dnd5eapi.co/api/subclasses/4"
 			}
 		],
-		"url": "http://dnd5eapi.co/api/spells/196"
+		"url": "http://www.dnd5eapi.co/api/spells/196"
 	},
 	{
 		"index": 197,
@@ -8688,21 +8688,21 @@
 		"casting_time": "1 action",
 		"level": 5,
 		"school": {
-			"url": "http://dnd5eapi.co/api/magic-schools/6",
+			"url": "http://www.dnd5eapi.co/api/magic-schools/6",
 			"name": "Illusion"
 		},
 		"classes": [
 			{
-				"url": "http://dnd5eapi.co/api/classes/2",
+				"url": "http://www.dnd5eapi.co/api/classes/2",
 				"name": "Bard"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/12",
+				"url": "http://www.dnd5eapi.co/api/classes/12",
 				"name": "Wizard"
 			}
 		],
 		"subclasses": [],
-		"url": "http://dnd5eapi.co/api/spells/197"
+		"url": "http://www.dnd5eapi.co/api/spells/197"
 	},
 	{
 		"index": 198,
@@ -8721,34 +8721,34 @@
 		"casting_time": "1 bonus action",
 		"level": 2,
 		"school": {
-			"url": "http://dnd5eapi.co/api/magic-schools/2",
+			"url": "http://www.dnd5eapi.co/api/magic-schools/2",
 			"name": "Conjuration"
 		},
 		"classes": [
 			{
-				"url": "http://dnd5eapi.co/api/classes/10",
+				"url": "http://www.dnd5eapi.co/api/classes/10",
 				"name": "Sorcerer"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/11",
+				"url": "http://www.dnd5eapi.co/api/classes/11",
 				"name": "Warlock"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/12",
+				"url": "http://www.dnd5eapi.co/api/classes/12",
 				"name": "Wizard"
 			}
 		],
 		"subclasses": [
 			{
 				"name": "Lore",
-				"url": "http://dnd5eapi.co/api/subclasses/2"
+				"url": "http://www.dnd5eapi.co/api/subclasses/2"
 			},
 			{
 				"name": "Land",
-				"url": "http://dnd5eapi.co/api/subclasses/4"
+				"url": "http://www.dnd5eapi.co/api/subclasses/4"
 			}
 		],
-		"url": "http://dnd5eapi.co/api/spells/198"
+		"url": "http://www.dnd5eapi.co/api/spells/198"
 	},
 	{
 		"index": 199,
@@ -8776,20 +8776,20 @@
 		"level": 5,
 		"school": {
 			"name": "Enchantment",
-			"url": "http://dnd5eapi.co/api/magic-schools/4"
+			"url": "http://www.dnd5eapi.co/api/magic-schools/4"
 		},
 		"classes": [
 			{
-				"url": "http://dnd5eapi.co/api/classes/2",
+				"url": "http://www.dnd5eapi.co/api/classes/2",
 				"name": "Bard"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/12",
+				"url": "http://www.dnd5eapi.co/api/classes/12",
 				"name": "Wizard"
 			}
 		],
 		"subclasses": [],
-		"url": "http://dnd5eapi.co/api/spells/199"
+		"url": "http://www.dnd5eapi.co/api/spells/199"
 	},
 	{
 		"index": 200,
@@ -8817,22 +8817,22 @@
 		"casting_time": "1 action",
 		"level": 2,
 		"school": {
-			"url": "http://dnd5eapi.co/api/magic-schools/5",
+			"url": "http://www.dnd5eapi.co/api/magic-schools/5",
 			"name": "Evocation"
 		},
 		"classes": [
 			{
-				"url": "http://dnd5eapi.co/api/classes/4",
+				"url": "http://www.dnd5eapi.co/api/classes/4",
 				"name": "Druid"
 			}
 		],
 		"subclasses": [
 			{
 				"name": "Lore",
-				"url": "http://dnd5eapi.co/api/subclasses/2"
+				"url": "http://www.dnd5eapi.co/api/subclasses/2"
 			}
 		],
-		"url": "http://dnd5eapi.co/api/spells/200"
+		"url": "http://www.dnd5eapi.co/api/spells/200"
 	},
 	{
 		"index": 201,
@@ -8859,24 +8859,24 @@
 		"level": 6,
 		"school": {
 			"name": "Transmutation",
-			"url": "http://dnd5eapi.co/api/magic-schools/8"
+			"url": "http://www.dnd5eapi.co/api/magic-schools/8"
 		},
 		"classes": [
 			{
-				"url": "http://dnd5eapi.co/api/classes/4",
+				"url": "http://www.dnd5eapi.co/api/classes/4",
 				"name": "Druid"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/10",
+				"url": "http://www.dnd5eapi.co/api/classes/10",
 				"name": "Sorcerer"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/12",
+				"url": "http://www.dnd5eapi.co/api/classes/12",
 				"name": "Wizard"
 			}
 		],
 		"subclasses": [],
-		"url": "http://dnd5eapi.co/api/spells/201"
+		"url": "http://www.dnd5eapi.co/api/spells/201"
 	},
 	{
 		"index": 202,
@@ -8898,30 +8898,30 @@
 		"casting_time": "1 action",
 		"level": 3,
 		"school": {
-			"url": "http://dnd5eapi.co/api/magic-schools/1",
+			"url": "http://www.dnd5eapi.co/api/magic-schools/1",
 			"name": "Abjuration"
 		},
 		"classes": [
 			{
-				"url": "http://dnd5eapi.co/api/classes/2",
+				"url": "http://www.dnd5eapi.co/api/classes/2",
 				"name": "Bard"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/8",
+				"url": "http://www.dnd5eapi.co/api/classes/8",
 				"name": "Ranger"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/12",
+				"url": "http://www.dnd5eapi.co/api/classes/12",
 				"name": "Wizard"
 			}
 		],
 		"subclasses": [
 			{
 				"name": "Lore",
-				"url": "http://dnd5eapi.co/api/subclasses/2"
+				"url": "http://www.dnd5eapi.co/api/subclasses/2"
 			}
 		],
-		"url": "http://dnd5eapi.co/api/spells/202"
+		"url": "http://www.dnd5eapi.co/api/spells/202"
 	},
 	{
 		"index": 203,
@@ -8943,30 +8943,30 @@
 		"casting_time": "1 action",
 		"level": 2,
 		"school": {
-			"url": "http://dnd5eapi.co/api/magic-schools/1",
+			"url": "http://www.dnd5eapi.co/api/magic-schools/1",
 			"name": "Abjuration"
 		},
 		"classes": [
 			{
-				"url": "http://dnd5eapi.co/api/classes/4",
+				"url": "http://www.dnd5eapi.co/api/classes/4",
 				"name": "Druid"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/8",
+				"url": "http://www.dnd5eapi.co/api/classes/8",
 				"name": "Ranger"
 			}
 		],
 		"subclasses": [
 			{
 				"name": "Lore",
-				"url": "http://dnd5eapi.co/api/subclasses/2"
+				"url": "http://www.dnd5eapi.co/api/subclasses/2"
 			},
 			{
 				"name": "Land",
-				"url": "http://dnd5eapi.co/api/subclasses/4"
+				"url": "http://www.dnd5eapi.co/api/subclasses/4"
 			}
 		],
-		"url": "http://dnd5eapi.co/api/spells/203"
+		"url": "http://www.dnd5eapi.co/api/spells/203"
 	},
 	{
 		"index": 204,
@@ -8990,21 +8990,21 @@
 		"level": 5,
 		"school": {
 			"name": "Transmutation",
-			"url": "http://dnd5eapi.co/api/magic-schools/8"
+			"url": "http://www.dnd5eapi.co/api/magic-schools/8"
 		},
 		"classes": [
 			{
-				"url": "http://dnd5eapi.co/api/classes/12",
+				"url": "http://www.dnd5eapi.co/api/classes/12",
 				"name": "Wizard"
 			}
 		],
 		"subclasses": [
 			{
 				"name": "Land",
-				"url": "http://dnd5eapi.co/api/subclasses/4"
+				"url": "http://www.dnd5eapi.co/api/subclasses/4"
 			}
 		],
-		"url": "http://dnd5eapi.co/api/spells/204"
+		"url": "http://www.dnd5eapi.co/api/spells/204"
 	},
 	{
 		"index": 205,
@@ -9027,17 +9027,17 @@
 		"casting_time": "1 action",
 		"level": 4,
 		"school": {
-			"url": "http://dnd5eapi.co/api/magic-schools/6",
+			"url": "http://www.dnd5eapi.co/api/magic-schools/6",
 			"name": "Illusion"
 		},
 		"classes": [
 			{
-				"url": "http://dnd5eapi.co/api/classes/12",
+				"url": "http://www.dnd5eapi.co/api/classes/12",
 				"name": "Wizard"
 			}
 		],
 		"subclasses": [],
-		"url": "http://dnd5eapi.co/api/spells/205"
+		"url": "http://www.dnd5eapi.co/api/spells/205"
 	},
 	{
 		"index": 206,
@@ -9058,22 +9058,22 @@
 		"casting_time": "1 minute",
 		"level": 3,
 		"school": {
-			"url": "http://dnd5eapi.co/api/magic-schools/6",
+			"url": "http://www.dnd5eapi.co/api/magic-schools/6",
 			"name": "Illusion"
 		},
 		"classes": [
 			{
-				"url": "http://dnd5eapi.co/api/classes/12",
+				"url": "http://www.dnd5eapi.co/api/classes/12",
 				"name": "Wizard"
 			}
 		],
 		"subclasses": [
 			{
 				"name": "Lore",
-				"url": "http://dnd5eapi.co/api/subclasses/2"
+				"url": "http://www.dnd5eapi.co/api/subclasses/2"
 			}
 		],
-		"url": "http://dnd5eapi.co/api/spells/206"
+		"url": "http://www.dnd5eapi.co/api/spells/206"
 	},
 	{
 		"index": 207,
@@ -9098,17 +9098,17 @@
 		"casting_time": "10 minutes",
 		"level": 6,
 		"school": {
-			"url": "http://dnd5eapi.co/api/magic-schools/2",
+			"url": "http://www.dnd5eapi.co/api/magic-schools/2",
 			"name": "Conjuration"
 		},
 		"classes": [
 			{
-				"url": "http://dnd5eapi.co/api/classes/3",
+				"url": "http://www.dnd5eapi.co/api/classes/3",
 				"name": "Cleric"
 			}
 		],
 		"subclasses": [],
-		"url": "http://dnd5eapi.co/api/spells/207"
+		"url": "http://www.dnd5eapi.co/api/spells/207"
 	},
 	{
 		"index": 208,
@@ -9134,29 +9134,29 @@
 		"casting_time": "1 hour",
 		"level": 5,
 		"school": {
-			"url": "http://dnd5eapi.co/api/magic-schools/1",
+			"url": "http://www.dnd5eapi.co/api/magic-schools/1",
 			"name": "Abjuration"
 		},
 		"classes": [
 			{
-				"url": "http://dnd5eapi.co/api/classes/2",
+				"url": "http://www.dnd5eapi.co/api/classes/2",
 				"name": "Bard"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/3",
+				"url": "http://www.dnd5eapi.co/api/classes/3",
 				"name": "Cleric"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/4",
+				"url": "http://www.dnd5eapi.co/api/classes/4",
 				"name": "Druid"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/12",
+				"url": "http://www.dnd5eapi.co/api/classes/12",
 				"name": "Wizard"
 			}
 		],
 		"subclasses": [],
-		"url": "http://dnd5eapi.co/api/spells/208"
+		"url": "http://www.dnd5eapi.co/api/spells/208"
 	},
 	{
 		"index": 209,
@@ -9180,33 +9180,33 @@
 		"casting_time": "1 action",
 		"level": 7,
 		"school": {
-			"url": "http://dnd5eapi.co/api/magic-schools/2",
+			"url": "http://www.dnd5eapi.co/api/magic-schools/2",
 			"name": "Conjuration"
 		},
 		"classes": [
 			{
-				"url": "http://dnd5eapi.co/api/classes/3",
+				"url": "http://www.dnd5eapi.co/api/classes/3",
 				"name": "Cleric"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/4",
+				"url": "http://www.dnd5eapi.co/api/classes/4",
 				"name": "Druid"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/10",
+				"url": "http://www.dnd5eapi.co/api/classes/10",
 				"name": "Sorcerer"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/11",
+				"url": "http://www.dnd5eapi.co/api/classes/11",
 				"name": "Warlock"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/12",
+				"url": "http://www.dnd5eapi.co/api/classes/12",
 				"name": "Wizard"
 			}
 		],
 		"subclasses": [],
-		"url": "http://dnd5eapi.co/api/spells/209"
+		"url": "http://www.dnd5eapi.co/api/spells/209"
 	},
 	{
 		"index": 210,
@@ -9230,33 +9230,33 @@
 		"level": 3,
 		"school": {
 			"name": "Transmutation",
-			"url": "http://dnd5eapi.co/api/magic-schools/8"
+			"url": "http://www.dnd5eapi.co/api/magic-schools/8"
 		},
 		"classes": [
 			{
-				"url": "http://dnd5eapi.co/api/classes/2",
+				"url": "http://www.dnd5eapi.co/api/classes/2",
 				"name": "Bard"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/4",
+				"url": "http://www.dnd5eapi.co/api/classes/4",
 				"name": "Druid"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/8",
+				"url": "http://www.dnd5eapi.co/api/classes/8",
 				"name": "Ranger"
 			}
 		],
 		"subclasses": [
 			{
 				"name": "Lore",
-				"url": "http://dnd5eapi.co/api/subclasses/2"
+				"url": "http://www.dnd5eapi.co/api/subclasses/2"
 			},
 			{
 				"name": "Land",
-				"url": "http://dnd5eapi.co/api/subclasses/4"
+				"url": "http://www.dnd5eapi.co/api/subclasses/4"
 			}
 		],
-		"url": "http://dnd5eapi.co/api/spells/210"
+		"url": "http://www.dnd5eapi.co/api/spells/210"
 	},
 	{
 		"index": 211,
@@ -9283,28 +9283,28 @@
 		"level": 4,
 		"school": {
 			"name": "Transmutation",
-			"url": "http://dnd5eapi.co/api/magic-schools/8"
+			"url": "http://www.dnd5eapi.co/api/magic-schools/8"
 		},
 		"classes": [
 			{
-				"url": "http://dnd5eapi.co/api/classes/2",
+				"url": "http://www.dnd5eapi.co/api/classes/2",
 				"name": "Bard"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/4",
+				"url": "http://www.dnd5eapi.co/api/classes/4",
 				"name": "Druid"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/10",
+				"url": "http://www.dnd5eapi.co/api/classes/10",
 				"name": "Sorcerer"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/12",
+				"url": "http://www.dnd5eapi.co/api/classes/12",
 				"name": "Wizard"
 			}
 		],
 		"subclasses": [],
-		"url": "http://dnd5eapi.co/api/spells/211"
+		"url": "http://www.dnd5eapi.co/api/spells/211"
 	},
 	{
 		"index": 212,
@@ -9324,28 +9324,28 @@
 		"level": 9,
 		"school": {
 			"name": "Enchantment",
-			"url": "http://dnd5eapi.co/api/magic-schools/4"
+			"url": "http://www.dnd5eapi.co/api/magic-schools/4"
 		},
 		"classes": [
 			{
-				"url": "http://dnd5eapi.co/api/classes/2",
+				"url": "http://www.dnd5eapi.co/api/classes/2",
 				"name": "Bard"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/10",
+				"url": "http://www.dnd5eapi.co/api/classes/10",
 				"name": "Sorcerer"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/11",
+				"url": "http://www.dnd5eapi.co/api/classes/11",
 				"name": "Warlock"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/12",
+				"url": "http://www.dnd5eapi.co/api/classes/12",
 				"name": "Wizard"
 			}
 		],
 		"subclasses": [],
-		"url": "http://dnd5eapi.co/api/spells/212"
+		"url": "http://www.dnd5eapi.co/api/spells/212"
 	},
 	{
 		"index": 213,
@@ -9366,28 +9366,28 @@
 		"level": 8,
 		"school": {
 			"name": "Enchantment",
-			"url": "http://dnd5eapi.co/api/magic-schools/4"
+			"url": "http://www.dnd5eapi.co/api/magic-schools/4"
 		},
 		"classes": [
 			{
-				"url": "http://dnd5eapi.co/api/classes/2",
+				"url": "http://www.dnd5eapi.co/api/classes/2",
 				"name": "Bard"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/10",
+				"url": "http://www.dnd5eapi.co/api/classes/10",
 				"name": "Sorcerer"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/11",
+				"url": "http://www.dnd5eapi.co/api/classes/11",
 				"name": "Warlock"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/12",
+				"url": "http://www.dnd5eapi.co/api/classes/12",
 				"name": "Wizard"
 			}
 		],
 		"subclasses": [],
-		"url": "http://dnd5eapi.co/api/spells/213"
+		"url": "http://www.dnd5eapi.co/api/spells/213"
 	},
 	{
 		"index": 214,
@@ -9409,22 +9409,22 @@
 		"casting_time": "10 minutes",
 		"level": 2,
 		"school": {
-			"url": "http://dnd5eapi.co/api/magic-schools/5",
+			"url": "http://www.dnd5eapi.co/api/magic-schools/5",
 			"name": "Evocation"
 		},
 		"classes": [
 			{
-				"url": "http://dnd5eapi.co/api/classes/3",
+				"url": "http://www.dnd5eapi.co/api/classes/3",
 				"name": "Cleric"
 			}
 		],
 		"subclasses": [
 			{
 				"name": "Lore",
-				"url": "http://dnd5eapi.co/api/subclasses/2"
+				"url": "http://www.dnd5eapi.co/api/subclasses/2"
 			}
 		],
-		"url": "http://dnd5eapi.co/api/spells/214"
+		"url": "http://www.dnd5eapi.co/api/spells/214"
 	},
 	{
 		"index": 215,
@@ -9452,33 +9452,33 @@
 		"level": 0,
 		"school": {
 			"name": "Transmutation",
-			"url": "http://dnd5eapi.co/api/magic-schools/8"
+			"url": "http://www.dnd5eapi.co/api/magic-schools/8"
 		},
 		"classes": [
 			{
-				"url": "http://dnd5eapi.co/api/classes/2",
+				"url": "http://www.dnd5eapi.co/api/classes/2",
 				"name": "Bard"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/10",
+				"url": "http://www.dnd5eapi.co/api/classes/10",
 				"name": "Sorcerer"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/11",
+				"url": "http://www.dnd5eapi.co/api/classes/11",
 				"name": "Warlock"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/12",
+				"url": "http://www.dnd5eapi.co/api/classes/12",
 				"name": "Wizard"
 			}
 		],
 		"subclasses": [
 			{
 				"name": "Lore",
-				"url": "http://dnd5eapi.co/api/subclasses/2"
+				"url": "http://www.dnd5eapi.co/api/subclasses/2"
 			}
 		],
-		"url": "http://dnd5eapi.co/api/spells/215"
+		"url": "http://www.dnd5eapi.co/api/spells/215"
 	},
 	{
 		"index": 216,
@@ -9514,21 +9514,21 @@
 		"casting_time": "1 action",
 		"level": 7,
 		"school": {
-			"url": "http://dnd5eapi.co/api/magic-schools/5",
+			"url": "http://www.dnd5eapi.co/api/magic-schools/5",
 			"name": "Evocation"
 		},
 		"classes": [
 			{
-				"url": "http://dnd5eapi.co/api/classes/10",
+				"url": "http://www.dnd5eapi.co/api/classes/10",
 				"name": "Sorcerer"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/12",
+				"url": "http://www.dnd5eapi.co/api/classes/12",
 				"name": "Wizard"
 			}
 		],
 		"subclasses": [],
-		"url": "http://dnd5eapi.co/api/spells/216"
+		"url": "http://www.dnd5eapi.co/api/spells/216"
 	},
 	{
 		"index": 217,
@@ -9566,17 +9566,17 @@
 		"casting_time": "1 action",
 		"level": 9,
 		"school": {
-			"url": "http://dnd5eapi.co/api/magic-schools/1",
+			"url": "http://www.dnd5eapi.co/api/magic-schools/1",
 			"name": "Abjuration"
 		},
 		"classes": [
 			{
-				"url": "http://dnd5eapi.co/api/classes/12",
+				"url": "http://www.dnd5eapi.co/api/classes/12",
 				"name": "Wizard"
 			}
 		],
 		"subclasses": [],
-		"url": "http://dnd5eapi.co/api/spells/217"
+		"url": "http://www.dnd5eapi.co/api/spells/217"
 	},
 	{
 		"index": 218,
@@ -9609,17 +9609,17 @@
 		"casting_time": "10 minutes",
 		"level": 4,
 		"school": {
-			"url": "http://dnd5eapi.co/api/magic-schools/1",
+			"url": "http://www.dnd5eapi.co/api/magic-schools/1",
 			"name": "Abjuration"
 		},
 		"classes": [
 			{
-				"url": "http://dnd5eapi.co/api/classes/12",
+				"url": "http://www.dnd5eapi.co/api/classes/12",
 				"name": "Wizard"
 			}
 		],
 		"subclasses": [],
-		"url": "http://dnd5eapi.co/api/spells/218"
+		"url": "http://www.dnd5eapi.co/api/spells/218"
 	},
 	{
 		"index": 219,
@@ -9641,22 +9641,22 @@
 		"casting_time": "1 action",
 		"level": 0,
 		"school": {
-			"url": "http://dnd5eapi.co/api/magic-schools/2",
+			"url": "http://www.dnd5eapi.co/api/magic-schools/2",
 			"name": "Conjuration"
 		},
 		"classes": [
 			{
-				"url": "http://dnd5eapi.co/api/classes/4",
+				"url": "http://www.dnd5eapi.co/api/classes/4",
 				"name": "Druid"
 			}
 		],
 		"subclasses": [
 			{
 				"name": "Lore",
-				"url": "http://dnd5eapi.co/api/subclasses/2"
+				"url": "http://www.dnd5eapi.co/api/subclasses/2"
 			}
 		],
-		"url": "http://dnd5eapi.co/api/spells/219"
+		"url": "http://www.dnd5eapi.co/api/spells/219"
 	},
 	{
 		"index": 220,
@@ -9681,21 +9681,21 @@
 		"casting_time": "1 action",
 		"level": 6,
 		"school": {
-			"url": "http://dnd5eapi.co/api/magic-schools/6",
+			"url": "http://www.dnd5eapi.co/api/magic-schools/6",
 			"name": "Illusion"
 		},
 		"classes": [
 			{
-				"url": "http://dnd5eapi.co/api/classes/2",
+				"url": "http://www.dnd5eapi.co/api/classes/2",
 				"name": "Bard"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/12",
+				"url": "http://www.dnd5eapi.co/api/classes/12",
 				"name": "Wizard"
 			}
 		],
 		"subclasses": [],
-		"url": "http://dnd5eapi.co/api/spells/220"
+		"url": "http://www.dnd5eapi.co/api/spells/220"
 	},
 	{
 		"index": 221,
@@ -9720,21 +9720,21 @@
 		"casting_time": "1 action",
 		"level": 7,
 		"school": {
-			"url": "http://dnd5eapi.co/api/magic-schools/6",
+			"url": "http://www.dnd5eapi.co/api/magic-schools/6",
 			"name": "Illusion"
 		},
 		"classes": [
 			{
-				"url": "http://dnd5eapi.co/api/classes/2",
+				"url": "http://www.dnd5eapi.co/api/classes/2",
 				"name": "Bard"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/12",
+				"url": "http://www.dnd5eapi.co/api/classes/12",
 				"name": "Wizard"
 			}
 		],
 		"subclasses": [],
-		"url": "http://dnd5eapi.co/api/spells/221"
+		"url": "http://www.dnd5eapi.co/api/spells/221"
 	},
 	{
 		"index": 222,
@@ -9754,42 +9754,42 @@
 		"casting_time": "1 action",
 		"level": 3,
 		"school": {
-			"url": "http://dnd5eapi.co/api/magic-schools/1",
+			"url": "http://www.dnd5eapi.co/api/magic-schools/1",
 			"name": "Abjuration"
 		},
 		"classes": [
 			{
-				"url": "http://dnd5eapi.co/api/classes/3",
+				"url": "http://www.dnd5eapi.co/api/classes/3",
 				"name": "Cleric"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/4",
+				"url": "http://www.dnd5eapi.co/api/classes/4",
 				"name": "Druid"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/8",
+				"url": "http://www.dnd5eapi.co/api/classes/8",
 				"name": "Ranger"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/10",
+				"url": "http://www.dnd5eapi.co/api/classes/10",
 				"name": "Sorcerer"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/12",
+				"url": "http://www.dnd5eapi.co/api/classes/12",
 				"name": "Wizard"
 			}
 		],
 		"subclasses": [
 			{
 				"name": "Lore",
-				"url": "http://dnd5eapi.co/api/subclasses/2"
+				"url": "http://www.dnd5eapi.co/api/subclasses/2"
 			},
 			{
 				"name": "Land",
-				"url": "http://dnd5eapi.co/api/subclasses/4"
+				"url": "http://www.dnd5eapi.co/api/subclasses/4"
 			}
 		],
-		"url": "http://dnd5eapi.co/api/spells/222"
+		"url": "http://www.dnd5eapi.co/api/spells/222"
 	},
 	{
 		"index": 223,
@@ -9812,38 +9812,38 @@
 		"casting_time": "1 action",
 		"level": 1,
 		"school": {
-			"url": "http://dnd5eapi.co/api/magic-schools/1",
+			"url": "http://www.dnd5eapi.co/api/magic-schools/1",
 			"name": "Abjuration"
 		},
 		"classes": [
 			{
-				"url": "http://dnd5eapi.co/api/classes/3",
+				"url": "http://www.dnd5eapi.co/api/classes/3",
 				"name": "Cleric"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/7",
+				"url": "http://www.dnd5eapi.co/api/classes/7",
 				"name": "Paladin"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/11",
+				"url": "http://www.dnd5eapi.co/api/classes/11",
 				"name": "Warlock"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/12",
+				"url": "http://www.dnd5eapi.co/api/classes/12",
 				"name": "Wizard"
 			}
 		],
 		"subclasses": [
 			{
 				"name": "Lore",
-				"url": "http://dnd5eapi.co/api/subclasses/2"
+				"url": "http://www.dnd5eapi.co/api/subclasses/2"
 			},
 			{
 				"name": "Devotion",
-				"url": "http://dnd5eapi.co/api/subclasses/7"
+				"url": "http://www.dnd5eapi.co/api/subclasses/7"
 			}
 		],
-		"url": "http://dnd5eapi.co/api/spells/223"
+		"url": "http://www.dnd5eapi.co/api/spells/223"
 	},
 	{
 		"index": 224,
@@ -9864,34 +9864,34 @@
 		"casting_time": "1 action",
 		"level": 2,
 		"school": {
-			"url": "http://dnd5eapi.co/api/magic-schools/1",
+			"url": "http://www.dnd5eapi.co/api/magic-schools/1",
 			"name": "Abjuration"
 		},
 		"classes": [
 			{
-				"url": "http://dnd5eapi.co/api/classes/3",
+				"url": "http://www.dnd5eapi.co/api/classes/3",
 				"name": "Cleric"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/4",
+				"url": "http://www.dnd5eapi.co/api/classes/4",
 				"name": "Druid"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/7",
+				"url": "http://www.dnd5eapi.co/api/classes/7",
 				"name": "Paladin"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/8",
+				"url": "http://www.dnd5eapi.co/api/classes/8",
 				"name": "Ranger"
 			}
 		],
 		"subclasses": [
 			{
 				"name": "Lore",
-				"url": "http://dnd5eapi.co/api/subclasses/2"
+				"url": "http://www.dnd5eapi.co/api/subclasses/2"
 			}
 		],
-		"url": "http://dnd5eapi.co/api/spells/224"
+		"url": "http://www.dnd5eapi.co/api/spells/224"
 	},
 	{
 		"index": 225,
@@ -9912,29 +9912,29 @@
 		"level": 1,
 		"school": {
 			"name": "Transmutation",
-			"url": "http://dnd5eapi.co/api/magic-schools/8"
+			"url": "http://www.dnd5eapi.co/api/magic-schools/8"
 		},
 		"classes": [
 			{
-				"url": "http://dnd5eapi.co/api/classes/3",
+				"url": "http://www.dnd5eapi.co/api/classes/3",
 				"name": "Cleric"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/4",
+				"url": "http://www.dnd5eapi.co/api/classes/4",
 				"name": "Druid"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/7",
+				"url": "http://www.dnd5eapi.co/api/classes/7",
 				"name": "Paladin"
 			}
 		],
 		"subclasses": [
 			{
 				"name": "Lore",
-				"url": "http://dnd5eapi.co/api/subclasses/2"
+				"url": "http://www.dnd5eapi.co/api/subclasses/2"
 			}
 		],
-		"url": "http://dnd5eapi.co/api/spells/225"
+		"url": "http://www.dnd5eapi.co/api/spells/225"
 	},
 	{
 		"index": 226,
@@ -9959,30 +9959,30 @@
 		"casting_time": "1 hour",
 		"level": 5,
 		"school": {
-			"url": "http://dnd5eapi.co/api/magic-schools/7",
+			"url": "http://www.dnd5eapi.co/api/magic-schools/7",
 			"name": "Necromancy"
 		},
 		"classes": [
 			{
-				"url": "http://dnd5eapi.co/api/classes/2",
+				"url": "http://www.dnd5eapi.co/api/classes/2",
 				"name": "Bard"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/3",
+				"url": "http://www.dnd5eapi.co/api/classes/3",
 				"name": "Cleric"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/7",
+				"url": "http://www.dnd5eapi.co/api/classes/7",
 				"name": "Paladin"
 			}
 		],
 		"subclasses": [
 			{
 				"name": "Life",
-				"url": "http://dnd5eapi.co/api/subclasses/3"
+				"url": "http://www.dnd5eapi.co/api/subclasses/3"
 			}
 		],
-		"url": "http://dnd5eapi.co/api/spells/226"
+		"url": "http://www.dnd5eapi.co/api/spells/226"
 	},
 	{
 		"index": 227,
@@ -10003,26 +10003,26 @@
 		"casting_time": "1 action",
 		"level": 2,
 		"school": {
-			"url": "http://dnd5eapi.co/api/magic-schools/7",
+			"url": "http://www.dnd5eapi.co/api/magic-schools/7",
 			"name": "Necromancy"
 		},
 		"classes": [
 			{
-				"url": "http://dnd5eapi.co/api/classes/11",
+				"url": "http://www.dnd5eapi.co/api/classes/11",
 				"name": "Warlock"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/12",
+				"url": "http://www.dnd5eapi.co/api/classes/12",
 				"name": "Wizard"
 			}
 		],
 		"subclasses": [
 			{
 				"name": "Lore",
-				"url": "http://dnd5eapi.co/api/subclasses/2"
+				"url": "http://www.dnd5eapi.co/api/subclasses/2"
 			}
 		],
-		"url": "http://dnd5eapi.co/api/spells/227"
+		"url": "http://www.dnd5eapi.co/api/spells/227"
 	},
 	{
 		"index": 228,
@@ -10043,26 +10043,26 @@
 		"casting_time": "1 action",
 		"level": 0,
 		"school": {
-			"url": "http://dnd5eapi.co/api/magic-schools/5",
+			"url": "http://www.dnd5eapi.co/api/magic-schools/5",
 			"name": "Evocation"
 		},
 		"classes": [
 			{
-				"url": "http://dnd5eapi.co/api/classes/10",
+				"url": "http://www.dnd5eapi.co/api/classes/10",
 				"name": "Sorcerer"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/12",
+				"url": "http://www.dnd5eapi.co/api/classes/12",
 				"name": "Wizard"
 			}
 		],
 		"subclasses": [
 			{
 				"name": "Lore",
-				"url": "http://dnd5eapi.co/api/subclasses/2"
+				"url": "http://www.dnd5eapi.co/api/subclasses/2"
 			}
 		],
-		"url": "http://dnd5eapi.co/api/spells/228"
+		"url": "http://www.dnd5eapi.co/api/spells/228"
 	},
 	{
 		"index": 229,
@@ -10086,24 +10086,24 @@
 		"level": 7,
 		"school": {
 			"name": "Transmutation",
-			"url": "http://dnd5eapi.co/api/magic-schools/8"
+			"url": "http://www.dnd5eapi.co/api/magic-schools/8"
 		},
 		"classes": [
 			{
-				"url": "http://dnd5eapi.co/api/classes/2",
+				"url": "http://www.dnd5eapi.co/api/classes/2",
 				"name": "Bard"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/3",
+				"url": "http://www.dnd5eapi.co/api/classes/3",
 				"name": "Cleric"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/4",
+				"url": "http://www.dnd5eapi.co/api/classes/4",
 				"name": "Druid"
 			}
 		],
 		"subclasses": [],
-		"url": "http://dnd5eapi.co/api/spells/229"
+		"url": "http://www.dnd5eapi.co/api/spells/229"
 	},
 	{
 		"index": 230,
@@ -10156,16 +10156,16 @@
 		"level": 5,
 		"school": {
 			"name": "Transmutation",
-			"url": "http://dnd5eapi.co/api/magic-schools/8"
+			"url": "http://www.dnd5eapi.co/api/magic-schools/8"
 		},
 		"classes": [
 			{
-				"url": "http://dnd5eapi.co/api/classes/4",
+				"url": "http://www.dnd5eapi.co/api/classes/4",
 				"name": "Druid"
 			}
 		],
 		"subclasses": [],
-		"url": "http://dnd5eapi.co/api/spells/230"
+		"url": "http://www.dnd5eapi.co/api/spells/230"
 	},
 	{
 		"index": 231,
@@ -10185,34 +10185,34 @@
 		"casting_time": "1 action",
 		"level": 3,
 		"school": {
-			"url": "http://dnd5eapi.co/api/magic-schools/1",
+			"url": "http://www.dnd5eapi.co/api/magic-schools/1",
 			"name": "Abjuration"
 		},
 		"classes": [
 			{
-				"url": "http://dnd5eapi.co/api/classes/3",
+				"url": "http://www.dnd5eapi.co/api/classes/3",
 				"name": "Cleric"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/7",
+				"url": "http://www.dnd5eapi.co/api/classes/7",
 				"name": "Paladin"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/11",
+				"url": "http://www.dnd5eapi.co/api/classes/11",
 				"name": "Warlock"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/12",
+				"url": "http://www.dnd5eapi.co/api/classes/12",
 				"name": "Wizard"
 			}
 		],
 		"subclasses": [
 			{
 				"name": "Lore",
-				"url": "http://dnd5eapi.co/api/subclasses/2"
+				"url": "http://www.dnd5eapi.co/api/subclasses/2"
 			}
 		],
-		"url": "http://dnd5eapi.co/api/spells/231"
+		"url": "http://www.dnd5eapi.co/api/spells/231"
 	},
 	{
 		"index": 232,
@@ -10237,17 +10237,17 @@
 		"casting_time": "1 action",
 		"level": 4,
 		"school": {
-			"url": "http://dnd5eapi.co/api/magic-schools/5",
+			"url": "http://www.dnd5eapi.co/api/magic-schools/5",
 			"name": "Evocation"
 		},
 		"classes": [
 			{
-				"url": "http://dnd5eapi.co/api/classes/12",
+				"url": "http://www.dnd5eapi.co/api/classes/12",
 				"name": "Wizard"
 			}
 		],
 		"subclasses": [],
-		"url": "http://dnd5eapi.co/api/spells/232"
+		"url": "http://www.dnd5eapi.co/api/spells/232"
 	},
 	{
 		"index": 233,
@@ -10269,26 +10269,26 @@
 		"casting_time": "1 action",
 		"level": 0,
 		"school": {
-			"url": "http://dnd5eapi.co/api/magic-schools/1",
+			"url": "http://www.dnd5eapi.co/api/magic-schools/1",
 			"name": "Abjuration"
 		},
 		"classes": [
 			{
-				"url": "http://dnd5eapi.co/api/classes/3",
+				"url": "http://www.dnd5eapi.co/api/classes/3",
 				"name": "Cleric"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/4",
+				"url": "http://www.dnd5eapi.co/api/classes/4",
 				"name": "Druid"
 			}
 		],
 		"subclasses": [
 			{
 				"name": "Lore",
-				"url": "http://dnd5eapi.co/api/subclasses/2"
+				"url": "http://www.dnd5eapi.co/api/subclasses/2"
 			}
 		],
-		"url": "http://dnd5eapi.co/api/spells/233"
+		"url": "http://www.dnd5eapi.co/api/spells/233"
 	},
 	{
 		"index": 234,
@@ -10314,21 +10314,21 @@
 		"casting_time": "1 hour",
 		"level": 7,
 		"school": {
-			"url": "http://dnd5eapi.co/api/magic-schools/7",
+			"url": "http://www.dnd5eapi.co/api/magic-schools/7",
 			"name": "Necromancy"
 		},
 		"classes": [
 			{
-				"url": "http://dnd5eapi.co/api/classes/2",
+				"url": "http://www.dnd5eapi.co/api/classes/2",
 				"name": "Bard"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/3",
+				"url": "http://www.dnd5eapi.co/api/classes/3",
 				"name": "Cleric"
 			}
 		],
 		"subclasses": [],
-		"url": "http://dnd5eapi.co/api/spells/234"
+		"url": "http://www.dnd5eapi.co/api/spells/234"
 	},
 	{
 		"index": 235,
@@ -10353,24 +10353,24 @@
 		"level": 7,
 		"school": {
 			"name": "Transmutation",
-			"url": "http://dnd5eapi.co/api/magic-schools/8"
+			"url": "http://www.dnd5eapi.co/api/magic-schools/8"
 		},
 		"classes": [
 			{
-				"url": "http://dnd5eapi.co/api/classes/4",
+				"url": "http://www.dnd5eapi.co/api/classes/4",
 				"name": "Druid"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/10",
+				"url": "http://www.dnd5eapi.co/api/classes/10",
 				"name": "Sorcerer"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/12",
+				"url": "http://www.dnd5eapi.co/api/classes/12",
 				"name": "Wizard"
 			}
 		],
 		"subclasses": [],
-		"url": "http://dnd5eapi.co/api/spells/235"
+		"url": "http://www.dnd5eapi.co/api/spells/235"
 	},
 	{
 		"index": 236,
@@ -10392,30 +10392,30 @@
 		"casting_time": "1 action",
 		"level": 3,
 		"school": {
-			"url": "http://dnd5eapi.co/api/magic-schools/2",
+			"url": "http://www.dnd5eapi.co/api/magic-schools/2",
 			"name": "Conjuration"
 		},
 		"classes": [
 			{
-				"url": "http://dnd5eapi.co/api/classes/3",
+				"url": "http://www.dnd5eapi.co/api/classes/3",
 				"name": "Cleric"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/7",
+				"url": "http://www.dnd5eapi.co/api/classes/7",
 				"name": "Paladin"
 			}
 		],
 		"subclasses": [
 			{
 				"name": "Lore",
-				"url": "http://dnd5eapi.co/api/subclasses/2"
+				"url": "http://www.dnd5eapi.co/api/subclasses/2"
 			},
 			{
 				"name": "Life",
-				"url": "http://dnd5eapi.co/api/subclasses/3"
+				"url": "http://www.dnd5eapi.co/api/subclasses/3"
 			}
 		],
-		"url": "http://dnd5eapi.co/api/spells/236"
+		"url": "http://www.dnd5eapi.co/api/spells/236"
 	},
 	{
 		"index": 237,
@@ -10441,21 +10441,21 @@
 		"level": 2,
 		"school": {
 			"name": "Transmutation",
-			"url": "http://dnd5eapi.co/api/magic-schools/8"
+			"url": "http://www.dnd5eapi.co/api/magic-schools/8"
 		},
 		"classes": [
 			{
-				"url": "http://dnd5eapi.co/api/classes/12",
+				"url": "http://www.dnd5eapi.co/api/classes/12",
 				"name": "Wizard"
 			}
 		],
 		"subclasses": [
 			{
 				"name": "Lore",
-				"url": "http://dnd5eapi.co/api/subclasses/2"
+				"url": "http://www.dnd5eapi.co/api/subclasses/2"
 			}
 		],
-		"url": "http://dnd5eapi.co/api/spells/237"
+		"url": "http://www.dnd5eapi.co/api/spells/237"
 	},
 	{
 		"index": 238,
@@ -10476,22 +10476,22 @@
 		"casting_time": "1 action",
 		"level": 0,
 		"school": {
-			"url": "http://dnd5eapi.co/api/magic-schools/5",
+			"url": "http://www.dnd5eapi.co/api/magic-schools/5",
 			"name": "Evocation"
 		},
 		"classes": [
 			{
-				"url": "http://dnd5eapi.co/api/classes/3",
+				"url": "http://www.dnd5eapi.co/api/classes/3",
 				"name": "Cleric"
 			}
 		],
 		"subclasses": [
 			{
 				"name": "Lore",
-				"url": "http://dnd5eapi.co/api/subclasses/2"
+				"url": "http://www.dnd5eapi.co/api/subclasses/2"
 			}
 		],
-		"url": "http://dnd5eapi.co/api/spells/238"
+		"url": "http://www.dnd5eapi.co/api/spells/238"
 	},
 	{
 		"index": 239,
@@ -10514,26 +10514,26 @@
 		"casting_time": "1 bonus action",
 		"level": 1,
 		"school": {
-			"url": "http://dnd5eapi.co/api/magic-schools/1",
+			"url": "http://www.dnd5eapi.co/api/magic-schools/1",
 			"name": "Abjuration"
 		},
 		"classes": [
 			{
-				"url": "http://dnd5eapi.co/api/classes/3",
+				"url": "http://www.dnd5eapi.co/api/classes/3",
 				"name": "Cleric"
 			}
 		],
 		"subclasses": [
 			{
 				"name": "Lore",
-				"url": "http://dnd5eapi.co/api/subclasses/2"
+				"url": "http://www.dnd5eapi.co/api/subclasses/2"
 			},
 			{
 				"name": "Devotion",
-				"url": "http://dnd5eapi.co/api/subclasses/7"
+				"url": "http://www.dnd5eapi.co/api/subclasses/7"
 			}
 		],
-		"url": "http://dnd5eapi.co/api/spells/239"
+		"url": "http://www.dnd5eapi.co/api/spells/239"
 	},
 	{
 		"index": 240,
@@ -10557,30 +10557,30 @@
 		"casting_time": "1 action",
 		"level": 2,
 		"school": {
-			"url": "http://dnd5eapi.co/api/magic-schools/5",
+			"url": "http://www.dnd5eapi.co/api/magic-schools/5",
 			"name": "Evocation"
 		},
 		"classes": [
 			{
-				"url": "http://dnd5eapi.co/api/classes/10",
+				"url": "http://www.dnd5eapi.co/api/classes/10",
 				"name": "Sorcerer"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/12",
+				"url": "http://www.dnd5eapi.co/api/classes/12",
 				"name": "Wizard"
 			}
 		],
 		"subclasses": [
 			{
 				"name": "Lore",
-				"url": "http://dnd5eapi.co/api/subclasses/2"
+				"url": "http://www.dnd5eapi.co/api/subclasses/2"
 			},
 			{
 				"name": "Fiend",
-				"url": "http://dnd5eapi.co/api/subclasses/11"
+				"url": "http://www.dnd5eapi.co/api/subclasses/11"
 			}
 		],
-		"url": "http://dnd5eapi.co/api/spells/240"
+		"url": "http://www.dnd5eapi.co/api/spells/240"
 	},
 	{
 		"index": 241,
@@ -10615,38 +10615,38 @@
 		"casting_time": "10 minutes",
 		"level": 5,
 		"school": {
-			"url": "http://dnd5eapi.co/api/magic-schools/3",
+			"url": "http://www.dnd5eapi.co/api/magic-schools/3",
 			"name": "Divination"
 		},
 		"classes": [
 			{
-				"url": "http://dnd5eapi.co/api/classes/2",
+				"url": "http://www.dnd5eapi.co/api/classes/2",
 				"name": "Bard"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/3",
+				"url": "http://www.dnd5eapi.co/api/classes/3",
 				"name": "Cleric"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/4",
+				"url": "http://www.dnd5eapi.co/api/classes/4",
 				"name": "Druid"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/11",
+				"url": "http://www.dnd5eapi.co/api/classes/11",
 				"name": "Warlock"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/12",
+				"url": "http://www.dnd5eapi.co/api/classes/12",
 				"name": "Wizard"
 			}
 		],
 		"subclasses": [
 			{
 				"name": "Land",
-				"url": "http://dnd5eapi.co/api/subclasses/4"
+				"url": "http://www.dnd5eapi.co/api/subclasses/4"
 			}
 		],
-		"url": "http://dnd5eapi.co/api/spells/241"
+		"url": "http://www.dnd5eapi.co/api/spells/241"
 	},
 	{
 		"index": 242,
@@ -10670,17 +10670,17 @@
 		"casting_time": "1 action",
 		"level": 4,
 		"school": {
-			"url": "http://dnd5eapi.co/api/magic-schools/2",
+			"url": "http://www.dnd5eapi.co/api/magic-schools/2",
 			"name": "Conjuration"
 		},
 		"classes": [
 			{
-				"url": "http://dnd5eapi.co/api/classes/12",
+				"url": "http://www.dnd5eapi.co/api/classes/12",
 				"name": "Wizard"
 			}
 		],
 		"subclasses": [],
-		"url": "http://dnd5eapi.co/api/spells/242"
+		"url": "http://www.dnd5eapi.co/api/spells/242"
 	},
 	{
 		"index": 243,
@@ -10702,30 +10702,30 @@
 		"casting_time": "1 action",
 		"level": 2,
 		"school": {
-			"url": "http://dnd5eapi.co/api/magic-schools/3",
+			"url": "http://www.dnd5eapi.co/api/magic-schools/3",
 			"name": "Divination"
 		},
 		"classes": [
 			{
-				"url": "http://dnd5eapi.co/api/classes/2",
+				"url": "http://www.dnd5eapi.co/api/classes/2",
 				"name": "Bard"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/10",
+				"url": "http://www.dnd5eapi.co/api/classes/10",
 				"name": "Sorcerer"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/12",
+				"url": "http://www.dnd5eapi.co/api/classes/12",
 				"name": "Wizard"
 			}
 		],
 		"subclasses": [
 			{
 				"name": "Lore",
-				"url": "http://dnd5eapi.co/api/subclasses/2"
+				"url": "http://www.dnd5eapi.co/api/subclasses/2"
 			}
 		],
-		"url": "http://dnd5eapi.co/api/spells/243"
+		"url": "http://www.dnd5eapi.co/api/spells/243"
 	},
 	{
 		"index": 244,
@@ -10748,25 +10748,25 @@
 		"casting_time": "1 action",
 		"level": 5,
 		"school": {
-			"url": "http://dnd5eapi.co/api/magic-schools/6",
+			"url": "http://www.dnd5eapi.co/api/magic-schools/6",
 			"name": "Illusion"
 		},
 		"classes": [
 			{
-				"url": "http://dnd5eapi.co/api/classes/2",
+				"url": "http://www.dnd5eapi.co/api/classes/2",
 				"name": "Bard"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/10",
+				"url": "http://www.dnd5eapi.co/api/classes/10",
 				"name": "Sorcerer"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/12",
+				"url": "http://www.dnd5eapi.co/api/classes/12",
 				"name": "Wizard"
 			}
 		],
 		"subclasses": [],
-		"url": "http://dnd5eapi.co/api/spells/244"
+		"url": "http://www.dnd5eapi.co/api/spells/244"
 	},
 	{
 		"index": 245,
@@ -10789,30 +10789,30 @@
 		"casting_time": "1 action",
 		"level": 3,
 		"school": {
-			"url": "http://dnd5eapi.co/api/magic-schools/5",
+			"url": "http://www.dnd5eapi.co/api/magic-schools/5",
 			"name": "Evocation"
 		},
 		"classes": [
 			{
-				"url": "http://dnd5eapi.co/api/classes/2",
+				"url": "http://www.dnd5eapi.co/api/classes/2",
 				"name": "Bard"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/3",
+				"url": "http://www.dnd5eapi.co/api/classes/3",
 				"name": "Cleric"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/12",
+				"url": "http://www.dnd5eapi.co/api/classes/12",
 				"name": "Wizard"
 			}
 		],
 		"subclasses": [
 			{
 				"name": "Lore",
-				"url": "http://dnd5eapi.co/api/subclasses/2"
+				"url": "http://www.dnd5eapi.co/api/subclasses/2"
 			}
 		],
-		"url": "http://dnd5eapi.co/api/spells/245"
+		"url": "http://www.dnd5eapi.co/api/spells/245"
 	},
 	{
 		"index": 246,
@@ -10837,16 +10837,16 @@
 		"level": 7,
 		"school": {
 			"name": "Transmutation",
-			"url": "http://dnd5eapi.co/api/magic-schools/8"
+			"url": "http://www.dnd5eapi.co/api/magic-schools/8"
 		},
 		"classes": [
 			{
-				"url": "http://dnd5eapi.co/api/classes/12",
+				"url": "http://www.dnd5eapi.co/api/classes/12",
 				"name": "Wizard"
 			}
 		],
 		"subclasses": [],
-		"url": "http://dnd5eapi.co/api/spells/246"
+		"url": "http://www.dnd5eapi.co/api/spells/246"
 	},
 	{
 		"index": 247,
@@ -10874,20 +10874,20 @@
 		"level": 9,
 		"school": {
 			"name": "Transmutation",
-			"url": "http://dnd5eapi.co/api/magic-schools/8"
+			"url": "http://www.dnd5eapi.co/api/magic-schools/8"
 		},
 		"classes": [
 			{
-				"url": "http://dnd5eapi.co/api/classes/4",
+				"url": "http://www.dnd5eapi.co/api/classes/4",
 				"name": "Druid"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/12",
+				"url": "http://www.dnd5eapi.co/api/classes/12",
 				"name": "Wizard"
 			}
 		],
 		"subclasses": [],
-		"url": "http://dnd5eapi.co/api/spells/247"
+		"url": "http://www.dnd5eapi.co/api/spells/247"
 	},
 	{
 		"index": 248,
@@ -10913,34 +10913,34 @@
 		"casting_time": "1 action",
 		"level": 2,
 		"school": {
-			"url": "http://dnd5eapi.co/api/magic-schools/5",
+			"url": "http://www.dnd5eapi.co/api/magic-schools/5",
 			"name": "Evocation"
 		},
 		"classes": [
 			{
-				"url": "http://dnd5eapi.co/api/classes/2",
+				"url": "http://www.dnd5eapi.co/api/classes/2",
 				"name": "Bard"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/10",
+				"url": "http://www.dnd5eapi.co/api/classes/10",
 				"name": "Sorcerer"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/11",
+				"url": "http://www.dnd5eapi.co/api/classes/11",
 				"name": "Warlock"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/12",
+				"url": "http://www.dnd5eapi.co/api/classes/12",
 				"name": "Wizard"
 			}
 		],
 		"subclasses": [
 			{
 				"name": "Lore",
-				"url": "http://dnd5eapi.co/api/subclasses/2"
+				"url": "http://www.dnd5eapi.co/api/subclasses/2"
 			}
 		],
-		"url": "http://dnd5eapi.co/api/spells/248"
+		"url": "http://www.dnd5eapi.co/api/spells/248"
 	},
 	{
 		"index": 249,
@@ -10960,26 +10960,26 @@
 		"casting_time": "1 reaction",
 		"level": 1,
 		"school": {
-			"url": "http://dnd5eapi.co/api/magic-schools/1",
+			"url": "http://www.dnd5eapi.co/api/magic-schools/1",
 			"name": "Abjuration"
 		},
 		"classes": [
 			{
-				"url": "http://dnd5eapi.co/api/classes/10",
+				"url": "http://www.dnd5eapi.co/api/classes/10",
 				"name": "Sorcerer"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/12",
+				"url": "http://www.dnd5eapi.co/api/classes/12",
 				"name": "Wizard"
 			}
 		],
 		"subclasses": [
 			{
 				"name": "Lore",
-				"url": "http://dnd5eapi.co/api/subclasses/2"
+				"url": "http://www.dnd5eapi.co/api/subclasses/2"
 			}
 		],
-		"url": "http://dnd5eapi.co/api/spells/249"
+		"url": "http://www.dnd5eapi.co/api/spells/249"
 	},
 	{
 		"index": 250,
@@ -11001,26 +11001,26 @@
 		"casting_time": "1 bonus action",
 		"level": 1,
 		"school": {
-			"url": "http://dnd5eapi.co/api/magic-schools/1",
+			"url": "http://www.dnd5eapi.co/api/magic-schools/1",
 			"name": "Abjuration"
 		},
 		"classes": [
 			{
-				"url": "http://dnd5eapi.co/api/classes/3",
+				"url": "http://www.dnd5eapi.co/api/classes/3",
 				"name": "Cleric"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/7",
+				"url": "http://www.dnd5eapi.co/api/classes/7",
 				"name": "Paladin"
 			}
 		],
 		"subclasses": [
 			{
 				"name": "Lore",
-				"url": "http://dnd5eapi.co/api/subclasses/2"
+				"url": "http://www.dnd5eapi.co/api/subclasses/2"
 			}
 		],
-		"url": "http://dnd5eapi.co/api/spells/250"
+		"url": "http://www.dnd5eapi.co/api/spells/250"
 	},
 	{
 		"index": 251,
@@ -11043,21 +11043,21 @@
 		"level": 0,
 		"school": {
 			"name": "Transmutation",
-			"url": "http://dnd5eapi.co/api/magic-schools/8"
+			"url": "http://www.dnd5eapi.co/api/magic-schools/8"
 		},
 		"classes": [
 			{
-				"url": "http://dnd5eapi.co/api/classes/4",
+				"url": "http://www.dnd5eapi.co/api/classes/4",
 				"name": "Druid"
 			}
 		],
 		"subclasses": [
 			{
 				"name": "Lore",
-				"url": "http://dnd5eapi.co/api/subclasses/2"
+				"url": "http://www.dnd5eapi.co/api/subclasses/2"
 			}
 		],
-		"url": "http://dnd5eapi.co/api/spells/251"
+		"url": "http://www.dnd5eapi.co/api/spells/251"
 	},
 	{
 		"index": 252,
@@ -11078,26 +11078,26 @@
 		"casting_time": "1 action",
 		"level": 0,
 		"school": {
-			"url": "http://dnd5eapi.co/api/magic-schools/5",
+			"url": "http://www.dnd5eapi.co/api/magic-schools/5",
 			"name": "Evocation"
 		},
 		"classes": [
 			{
-				"url": "http://dnd5eapi.co/api/classes/10",
+				"url": "http://www.dnd5eapi.co/api/classes/10",
 				"name": "Sorcerer"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/12",
+				"url": "http://www.dnd5eapi.co/api/classes/12",
 				"name": "Wizard"
 			}
 		],
 		"subclasses": [
 			{
 				"name": "Lore",
-				"url": "http://dnd5eapi.co/api/subclasses/2"
+				"url": "http://www.dnd5eapi.co/api/subclasses/2"
 			}
 		],
-		"url": "http://dnd5eapi.co/api/spells/252"
+		"url": "http://www.dnd5eapi.co/api/spells/252"
 	},
 	{
 		"index": 253,
@@ -11118,34 +11118,34 @@
 		"casting_time": "1 action",
 		"level": 2,
 		"school": {
-			"url": "http://dnd5eapi.co/api/magic-schools/6",
+			"url": "http://www.dnd5eapi.co/api/magic-schools/6",
 			"name": "Illusion"
 		},
 		"classes": [
 			{
-				"url": "http://dnd5eapi.co/api/classes/2",
+				"url": "http://www.dnd5eapi.co/api/classes/2",
 				"name": "Bard"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/3",
+				"url": "http://www.dnd5eapi.co/api/classes/3",
 				"name": "Cleric"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/8",
+				"url": "http://www.dnd5eapi.co/api/classes/8",
 				"name": "Ranger"
 			}
 		],
 		"subclasses": [
 			{
 				"name": "Lore",
-				"url": "http://dnd5eapi.co/api/subclasses/2"
+				"url": "http://www.dnd5eapi.co/api/subclasses/2"
 			},
 			{
 				"name": "Land",
-				"url": "http://dnd5eapi.co/api/subclasses/4"
+				"url": "http://www.dnd5eapi.co/api/subclasses/4"
 			}
 		],
-		"url": "http://dnd5eapi.co/api/spells/253"
+		"url": "http://www.dnd5eapi.co/api/spells/253"
 	},
 	{
 		"index": 254,
@@ -11169,30 +11169,30 @@
 		"casting_time": "1 action",
 		"level": 1,
 		"school": {
-			"url": "http://dnd5eapi.co/api/magic-schools/6",
+			"url": "http://www.dnd5eapi.co/api/magic-schools/6",
 			"name": "Illusion"
 		},
 		"classes": [
 			{
-				"url": "http://dnd5eapi.co/api/classes/2",
+				"url": "http://www.dnd5eapi.co/api/classes/2",
 				"name": "Bard"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/10",
+				"url": "http://www.dnd5eapi.co/api/classes/10",
 				"name": "Sorcerer"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/12",
+				"url": "http://www.dnd5eapi.co/api/classes/12",
 				"name": "Wizard"
 			}
 		],
 		"subclasses": [
 			{
 				"name": "Lore",
-				"url": "http://dnd5eapi.co/api/subclasses/2"
+				"url": "http://www.dnd5eapi.co/api/subclasses/2"
 			}
 		],
-		"url": "http://dnd5eapi.co/api/spells/254"
+		"url": "http://www.dnd5eapi.co/api/spells/254"
 	},
 	{
 		"index": 255,
@@ -11217,17 +11217,17 @@
 		"casting_time": "12 hours",
 		"level": 7,
 		"school": {
-			"url": "http://dnd5eapi.co/api/magic-schools/6",
+			"url": "http://www.dnd5eapi.co/api/magic-schools/6",
 			"name": "Illusion"
 		},
 		"classes": [
 			{
-				"url": "http://dnd5eapi.co/api/classes/12",
+				"url": "http://www.dnd5eapi.co/api/classes/12",
 				"name": "Wizard"
 			}
 		],
 		"subclasses": [],
-		"url": "http://dnd5eapi.co/api/spells/255"
+		"url": "http://www.dnd5eapi.co/api/spells/255"
 	},
 	{
 		"index": 256,
@@ -11255,29 +11255,29 @@
 		"level": 1,
 		"school": {
 			"name": "Enchantment",
-			"url": "http://dnd5eapi.co/api/magic-schools/4"
+			"url": "http://www.dnd5eapi.co/api/magic-schools/4"
 		},
 		"classes": [
 			{
-				"url": "http://dnd5eapi.co/api/classes/2",
+				"url": "http://www.dnd5eapi.co/api/classes/2",
 				"name": "Bard"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/10",
+				"url": "http://www.dnd5eapi.co/api/classes/10",
 				"name": "Sorcerer"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/12",
+				"url": "http://www.dnd5eapi.co/api/classes/12",
 				"name": "Wizard"
 			}
 		],
 		"subclasses": [
 			{
 				"name": "Lore",
-				"url": "http://dnd5eapi.co/api/subclasses/2"
+				"url": "http://www.dnd5eapi.co/api/subclasses/2"
 			}
 		],
-		"url": "http://dnd5eapi.co/api/spells/256"
+		"url": "http://www.dnd5eapi.co/api/spells/256"
 	},
 	{
 		"index": 257,
@@ -11301,34 +11301,34 @@
 		"casting_time": "1 action",
 		"level": 3,
 		"school": {
-			"url": "http://dnd5eapi.co/api/magic-schools/2",
+			"url": "http://www.dnd5eapi.co/api/magic-schools/2",
 			"name": "Conjuration"
 		},
 		"classes": [
 			{
-				"url": "http://dnd5eapi.co/api/classes/4",
+				"url": "http://www.dnd5eapi.co/api/classes/4",
 				"name": "Druid"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/10",
+				"url": "http://www.dnd5eapi.co/api/classes/10",
 				"name": "Sorcerer"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/12",
+				"url": "http://www.dnd5eapi.co/api/classes/12",
 				"name": "Wizard"
 			}
 		],
 		"subclasses": [
 			{
 				"name": "Lore",
-				"url": "http://dnd5eapi.co/api/subclasses/2"
+				"url": "http://www.dnd5eapi.co/api/subclasses/2"
 			},
 			{
 				"name": "Land",
-				"url": "http://dnd5eapi.co/api/subclasses/4"
+				"url": "http://www.dnd5eapi.co/api/subclasses/4"
 			}
 		],
-		"url": "http://dnd5eapi.co/api/spells/257"
+		"url": "http://www.dnd5eapi.co/api/spells/257"
 	},
 	{
 		"index": 258,
@@ -11354,29 +11354,29 @@
 		"level": 3,
 		"school": {
 			"name": "Transmutation",
-			"url": "http://dnd5eapi.co/api/magic-schools/8"
+			"url": "http://www.dnd5eapi.co/api/magic-schools/8"
 		},
 		"classes": [
 			{
-				"url": "http://dnd5eapi.co/api/classes/10",
+				"url": "http://www.dnd5eapi.co/api/classes/10",
 				"name": "Sorcerer"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/12",
+				"url": "http://www.dnd5eapi.co/api/classes/12",
 				"name": "Wizard"
 			}
 		],
 		"subclasses": [
 			{
 				"name": "Lore",
-				"url": "http://dnd5eapi.co/api/subclasses/2"
+				"url": "http://www.dnd5eapi.co/api/subclasses/2"
 			},
 			{
 				"name": "Land",
-				"url": "http://dnd5eapi.co/api/subclasses/4"
+				"url": "http://www.dnd5eapi.co/api/subclasses/4"
 			}
 		],
-		"url": "http://dnd5eapi.co/api/spells/258"
+		"url": "http://www.dnd5eapi.co/api/spells/258"
 	},
 	{
 		"index": 259,
@@ -11396,30 +11396,30 @@
 		"casting_time": "1 action",
 		"level": 1,
 		"school": {
-			"url": "http://dnd5eapi.co/api/magic-schools/3",
+			"url": "http://www.dnd5eapi.co/api/magic-schools/3",
 			"name": "Divination"
 		},
 		"classes": [
 			{
-				"url": "http://dnd5eapi.co/api/classes/2",
+				"url": "http://www.dnd5eapi.co/api/classes/2",
 				"name": "Bard"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/4",
+				"url": "http://www.dnd5eapi.co/api/classes/4",
 				"name": "Druid"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/8",
+				"url": "http://www.dnd5eapi.co/api/classes/8",
 				"name": "Ranger"
 			}
 		],
 		"subclasses": [
 			{
 				"name": "Lore",
-				"url": "http://dnd5eapi.co/api/subclasses/2"
+				"url": "http://www.dnd5eapi.co/api/subclasses/2"
 			}
 		],
-		"url": "http://dnd5eapi.co/api/spells/259"
+		"url": "http://www.dnd5eapi.co/api/spells/259"
 	},
 	{
 		"index": 260,
@@ -11442,26 +11442,26 @@
 		"casting_time": "1 action",
 		"level": 3,
 		"school": {
-			"url": "http://dnd5eapi.co/api/magic-schools/7",
+			"url": "http://www.dnd5eapi.co/api/magic-schools/7",
 			"name": "Necromancy"
 		},
 		"classes": [
 			{
-				"url": "http://dnd5eapi.co/api/classes/2",
+				"url": "http://www.dnd5eapi.co/api/classes/2",
 				"name": "Bard"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/3",
+				"url": "http://www.dnd5eapi.co/api/classes/3",
 				"name": "Cleric"
 			}
 		],
 		"subclasses": [
 			{
 				"name": "Lore",
-				"url": "http://dnd5eapi.co/api/subclasses/2"
+				"url": "http://www.dnd5eapi.co/api/subclasses/2"
 			}
 		],
-		"url": "http://dnd5eapi.co/api/spells/260"
+		"url": "http://www.dnd5eapi.co/api/spells/260"
 	},
 	{
 		"index": 261,
@@ -11486,29 +11486,29 @@
 		"level": 3,
 		"school": {
 			"name": "Transmutation",
-			"url": "http://dnd5eapi.co/api/magic-schools/8"
+			"url": "http://www.dnd5eapi.co/api/magic-schools/8"
 		},
 		"classes": [
 			{
-				"url": "http://dnd5eapi.co/api/classes/2",
+				"url": "http://www.dnd5eapi.co/api/classes/2",
 				"name": "Bard"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/4",
+				"url": "http://www.dnd5eapi.co/api/classes/4",
 				"name": "Druid"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/8",
+				"url": "http://www.dnd5eapi.co/api/classes/8",
 				"name": "Ranger"
 			}
 		],
 		"subclasses": [
 			{
 				"name": "Lore",
-				"url": "http://dnd5eapi.co/api/subclasses/2"
+				"url": "http://www.dnd5eapi.co/api/subclasses/2"
 			}
 		],
-		"url": "http://dnd5eapi.co/api/spells/261"
+		"url": "http://www.dnd5eapi.co/api/spells/261"
 	},
 	{
 		"index": 262,
@@ -11531,33 +11531,33 @@
 		"level": 2,
 		"school": {
 			"name": "Transmutation",
-			"url": "http://dnd5eapi.co/api/magic-schools/8"
+			"url": "http://www.dnd5eapi.co/api/magic-schools/8"
 		},
 		"classes": [
 			{
-				"url": "http://dnd5eapi.co/api/classes/10",
+				"url": "http://www.dnd5eapi.co/api/classes/10",
 				"name": "Sorcerer"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/11",
+				"url": "http://www.dnd5eapi.co/api/classes/11",
 				"name": "Warlock"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/12",
+				"url": "http://www.dnd5eapi.co/api/classes/12",
 				"name": "Wizard"
 			}
 		],
 		"subclasses": [
 			{
 				"name": "Lore",
-				"url": "http://dnd5eapi.co/api/subclasses/2"
+				"url": "http://www.dnd5eapi.co/api/subclasses/2"
 			},
 			{
 				"name": "Land",
-				"url": "http://dnd5eapi.co/api/subclasses/4"
+				"url": "http://www.dnd5eapi.co/api/subclasses/4"
 			}
 		],
-		"url": "http://dnd5eapi.co/api/spells/262"
+		"url": "http://www.dnd5eapi.co/api/spells/262"
 	},
 	{
 		"index": 263,
@@ -11581,29 +11581,29 @@
 		"level": 2,
 		"school": {
 			"name": "Transmutation",
-			"url": "http://dnd5eapi.co/api/magic-schools/8"
+			"url": "http://www.dnd5eapi.co/api/magic-schools/8"
 		},
 		"classes": [
 			{
-				"url": "http://dnd5eapi.co/api/classes/4",
+				"url": "http://www.dnd5eapi.co/api/classes/4",
 				"name": "Druid"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/8",
+				"url": "http://www.dnd5eapi.co/api/classes/8",
 				"name": "Ranger"
 			}
 		],
 		"subclasses": [
 			{
 				"name": "Lore",
-				"url": "http://dnd5eapi.co/api/subclasses/2"
+				"url": "http://www.dnd5eapi.co/api/subclasses/2"
 			},
 			{
 				"name": "Land",
-				"url": "http://dnd5eapi.co/api/subclasses/4"
+				"url": "http://www.dnd5eapi.co/api/subclasses/4"
 			}
 		],
-		"url": "http://dnd5eapi.co/api/spells/263"
+		"url": "http://www.dnd5eapi.co/api/spells/263"
 	},
 	{
 		"index": 264,
@@ -11629,22 +11629,22 @@
 		"casting_time": "1 action",
 		"level": 3,
 		"school": {
-			"url": "http://dnd5eapi.co/api/magic-schools/2",
+			"url": "http://www.dnd5eapi.co/api/magic-schools/2",
 			"name": "Conjuration"
 		},
 		"classes": [
 			{
-				"url": "http://dnd5eapi.co/api/classes/3",
+				"url": "http://www.dnd5eapi.co/api/classes/3",
 				"name": "Cleric"
 			}
 		],
 		"subclasses": [
 			{
 				"name": "Lore",
-				"url": "http://dnd5eapi.co/api/subclasses/2"
+				"url": "http://www.dnd5eapi.co/api/subclasses/2"
 			}
 		],
-		"url": "http://dnd5eapi.co/api/spells/264"
+		"url": "http://www.dnd5eapi.co/api/spells/264"
 	},
 	{
 		"index": 265,
@@ -11669,26 +11669,26 @@
 		"casting_time": "1 bonus action",
 		"level": 2,
 		"school": {
-			"url": "http://dnd5eapi.co/api/magic-schools/5",
+			"url": "http://www.dnd5eapi.co/api/magic-schools/5",
 			"name": "Evocation"
 		},
 		"classes": [
 			{
-				"url": "http://dnd5eapi.co/api/classes/3",
+				"url": "http://www.dnd5eapi.co/api/classes/3",
 				"name": "Cleric"
 			}
 		],
 		"subclasses": [
 			{
 				"name": "Lore",
-				"url": "http://dnd5eapi.co/api/subclasses/2"
+				"url": "http://www.dnd5eapi.co/api/subclasses/2"
 			},
 			{
 				"name": "Life",
-				"url": "http://dnd5eapi.co/api/subclasses/3"
+				"url": "http://www.dnd5eapi.co/api/subclasses/3"
 			}
 		],
-		"url": "http://dnd5eapi.co/api/spells/265"
+		"url": "http://www.dnd5eapi.co/api/spells/265"
 	},
 	{
 		"index": 266,
@@ -11712,38 +11712,38 @@
 		"casting_time": "1 action",
 		"level": 3,
 		"school": {
-			"url": "http://dnd5eapi.co/api/magic-schools/2",
+			"url": "http://www.dnd5eapi.co/api/magic-schools/2",
 			"name": "Conjuration"
 		},
 		"classes": [
 			{
-				"url": "http://dnd5eapi.co/api/classes/2",
+				"url": "http://www.dnd5eapi.co/api/classes/2",
 				"name": "Bard"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/10",
+				"url": "http://www.dnd5eapi.co/api/classes/10",
 				"name": "Sorcerer"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/12",
+				"url": "http://www.dnd5eapi.co/api/classes/12",
 				"name": "Wizard"
 			}
 		],
 		"subclasses": [
 			{
 				"name": "Lore",
-				"url": "http://dnd5eapi.co/api/subclasses/2"
+				"url": "http://www.dnd5eapi.co/api/subclasses/2"
 			},
 			{
 				"name": "Land",
-				"url": "http://dnd5eapi.co/api/subclasses/4"
+				"url": "http://www.dnd5eapi.co/api/subclasses/4"
 			},
 			{
 				"name": "Fiend",
-				"url": "http://dnd5eapi.co/api/subclasses/11"
+				"url": "http://www.dnd5eapi.co/api/subclasses/11"
 			}
 		],
-		"url": "http://dnd5eapi.co/api/spells/266"
+		"url": "http://www.dnd5eapi.co/api/spells/266"
 	},
 	{
 		"index": 267,
@@ -11766,29 +11766,29 @@
 		"level": 4,
 		"school": {
 			"name": "Transmutation",
-			"url": "http://dnd5eapi.co/api/magic-schools/8"
+			"url": "http://www.dnd5eapi.co/api/magic-schools/8"
 		},
 		"classes": [
 			{
-				"url": "http://dnd5eapi.co/api/classes/3",
+				"url": "http://www.dnd5eapi.co/api/classes/3",
 				"name": "Cleric"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/4",
+				"url": "http://www.dnd5eapi.co/api/classes/4",
 				"name": "Druid"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/12",
+				"url": "http://www.dnd5eapi.co/api/classes/12",
 				"name": "Wizard"
 			}
 		],
 		"subclasses": [
 			{
 				"name": "Land",
-				"url": "http://dnd5eapi.co/api/subclasses/4"
+				"url": "http://www.dnd5eapi.co/api/subclasses/4"
 			}
 		],
-		"url": "http://dnd5eapi.co/api/spells/267"
+		"url": "http://www.dnd5eapi.co/api/spells/267"
 	},
 	{
 		"index": 268,
@@ -11810,34 +11810,34 @@
 		"casting_time": "1 action",
 		"level": 4,
 		"school": {
-			"url": "http://dnd5eapi.co/api/magic-schools/1",
+			"url": "http://www.dnd5eapi.co/api/magic-schools/1",
 			"name": "Abjuration"
 		},
 		"classes": [
 			{
-				"url": "http://dnd5eapi.co/api/classes/4",
+				"url": "http://www.dnd5eapi.co/api/classes/4",
 				"name": "Druid"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/8",
+				"url": "http://www.dnd5eapi.co/api/classes/8",
 				"name": "Ranger"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/10",
+				"url": "http://www.dnd5eapi.co/api/classes/10",
 				"name": "Sorcerer"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/12",
+				"url": "http://www.dnd5eapi.co/api/classes/12",
 				"name": "Wizard"
 			}
 		],
 		"subclasses": [
 			{
 				"name": "Land",
-				"url": "http://dnd5eapi.co/api/subclasses/4"
+				"url": "http://www.dnd5eapi.co/api/subclasses/4"
 			}
 		],
-		"url": "http://dnd5eapi.co/api/spells/268"
+		"url": "http://www.dnd5eapi.co/api/spells/268"
 	},
 	{
 		"index": 269,
@@ -11866,17 +11866,17 @@
 		"casting_time": "1 action",
 		"level": 9,
 		"school": {
-			"url": "http://dnd5eapi.co/api/magic-schools/2",
+			"url": "http://www.dnd5eapi.co/api/magic-schools/2",
 			"name": "Conjuration"
 		},
 		"classes": [
 			{
-				"url": "http://dnd5eapi.co/api/classes/4",
+				"url": "http://www.dnd5eapi.co/api/classes/4",
 				"name": "Druid"
 			}
 		],
 		"subclasses": [],
-		"url": "http://dnd5eapi.co/api/spells/269"
+		"url": "http://www.dnd5eapi.co/api/spells/269"
 	},
 	{
 		"index": 270,
@@ -11901,33 +11901,33 @@
 		"level": 2,
 		"school": {
 			"name": "Enchantment",
-			"url": "http://dnd5eapi.co/api/magic-schools/4"
+			"url": "http://www.dnd5eapi.co/api/magic-schools/4"
 		},
 		"classes": [
 			{
-				"url": "http://dnd5eapi.co/api/classes/2",
+				"url": "http://www.dnd5eapi.co/api/classes/2",
 				"name": "Bard"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/10",
+				"url": "http://www.dnd5eapi.co/api/classes/10",
 				"name": "Sorcerer"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/11",
+				"url": "http://www.dnd5eapi.co/api/classes/11",
 				"name": "Warlock"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/12",
+				"url": "http://www.dnd5eapi.co/api/classes/12",
 				"name": "Wizard"
 			}
 		],
 		"subclasses": [
 			{
 				"name": "Lore",
-				"url": "http://dnd5eapi.co/api/subclasses/2"
+				"url": "http://www.dnd5eapi.co/api/subclasses/2"
 			}
 		],
-		"url": "http://dnd5eapi.co/api/spells/270"
+		"url": "http://www.dnd5eapi.co/api/spells/270"
 	},
 	{
 		"index": 271,
@@ -11951,25 +11951,25 @@
 		"casting_time": "1 action",
 		"level": 6,
 		"school": {
-			"url": "http://dnd5eapi.co/api/magic-schools/5",
+			"url": "http://www.dnd5eapi.co/api/magic-schools/5",
 			"name": "Evocation"
 		},
 		"classes": [
 			{
-				"url": "http://dnd5eapi.co/api/classes/4",
+				"url": "http://www.dnd5eapi.co/api/classes/4",
 				"name": "Druid"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/10",
+				"url": "http://www.dnd5eapi.co/api/classes/10",
 				"name": "Sorcerer"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/12",
+				"url": "http://www.dnd5eapi.co/api/classes/12",
 				"name": "Wizard"
 			}
 		],
 		"subclasses": [],
-		"url": "http://dnd5eapi.co/api/spells/271"
+		"url": "http://www.dnd5eapi.co/api/spells/271"
 	},
 	{
 		"index": 272,
@@ -11993,25 +11993,25 @@
 		"casting_time": "1 action",
 		"level": 8,
 		"school": {
-			"url": "http://dnd5eapi.co/api/magic-schools/5",
+			"url": "http://www.dnd5eapi.co/api/magic-schools/5",
 			"name": "Evocation"
 		},
 		"classes": [
 			{
-				"url": "http://dnd5eapi.co/api/classes/4",
+				"url": "http://www.dnd5eapi.co/api/classes/4",
 				"name": "Druid"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/10",
+				"url": "http://www.dnd5eapi.co/api/classes/10",
 				"name": "Sorcerer"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/12",
+				"url": "http://www.dnd5eapi.co/api/classes/12",
 				"name": "Wizard"
 			}
 		],
 		"subclasses": [],
-		"url": "http://dnd5eapi.co/api/spells/272"
+		"url": "http://www.dnd5eapi.co/api/spells/272"
 	},
 	{
 		"index": 273,
@@ -12053,25 +12053,25 @@
 		"casting_time": "1 minute",
 		"level": 7,
 		"school": {
-			"url": "http://dnd5eapi.co/api/magic-schools/1",
+			"url": "http://www.dnd5eapi.co/api/magic-schools/1",
 			"name": "Abjuration"
 		},
 		"classes": [
 			{
-				"url": "http://dnd5eapi.co/api/classes/2",
+				"url": "http://www.dnd5eapi.co/api/classes/2",
 				"name": "Bard"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/3",
+				"url": "http://www.dnd5eapi.co/api/classes/3",
 				"name": "Cleric"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/12",
+				"url": "http://www.dnd5eapi.co/api/classes/12",
 				"name": "Wizard"
 			}
 		],
 		"subclasses": [],
-		"url": "http://dnd5eapi.co/api/spells/273"
+		"url": "http://www.dnd5eapi.co/api/spells/273"
 	},
 	{
 		"index": 274,
@@ -12099,20 +12099,20 @@
 		"level": 5,
 		"school": {
 			"name": "Transmutation",
-			"url": "http://dnd5eapi.co/api/magic-schools/8"
+			"url": "http://www.dnd5eapi.co/api/magic-schools/8"
 		},
 		"classes": [
 			{
-				"url": "http://dnd5eapi.co/api/classes/10",
+				"url": "http://www.dnd5eapi.co/api/classes/10",
 				"name": "Sorcerer"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/12",
+				"url": "http://www.dnd5eapi.co/api/classes/12",
 				"name": "Wizard"
 			}
 		],
 		"subclasses": [],
-		"url": "http://dnd5eapi.co/api/spells/274"
+		"url": "http://www.dnd5eapi.co/api/spells/274"
 	},
 	{
 		"index": 275,
@@ -12135,17 +12135,17 @@
 		"casting_time": "1 action",
 		"level": 5,
 		"school": {
-			"url": "http://dnd5eapi.co/api/magic-schools/3",
+			"url": "http://www.dnd5eapi.co/api/magic-schools/3",
 			"name": "Divination"
 		},
 		"classes": [
 			{
-				"url": "http://dnd5eapi.co/api/classes/12",
+				"url": "http://www.dnd5eapi.co/api/classes/12",
 				"name": "Wizard"
 			}
 		],
 		"subclasses": [],
-		"url": "http://dnd5eapi.co/api/spells/275"
+		"url": "http://www.dnd5eapi.co/api/spells/275"
 	},
 	{
 		"index": 276,
@@ -12165,25 +12165,25 @@
 		"casting_time": "1 action",
 		"level": 7,
 		"school": {
-			"url": "http://dnd5eapi.co/api/magic-schools/2",
+			"url": "http://www.dnd5eapi.co/api/magic-schools/2",
 			"name": "Conjuration"
 		},
 		"classes": [
 			{
-				"url": "http://dnd5eapi.co/api/classes/2",
+				"url": "http://www.dnd5eapi.co/api/classes/2",
 				"name": "Bard"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/10",
+				"url": "http://www.dnd5eapi.co/api/classes/10",
 				"name": "Sorcerer"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/12",
+				"url": "http://www.dnd5eapi.co/api/classes/12",
 				"name": "Wizard"
 			}
 		],
 		"subclasses": [],
-		"url": "http://dnd5eapi.co/api/spells/276"
+		"url": "http://www.dnd5eapi.co/api/spells/276"
 	},
 	{
 		"index": 277,
@@ -12206,25 +12206,25 @@
 		"casting_time": "1 minute",
 		"level": 5,
 		"school": {
-			"url": "http://dnd5eapi.co/api/magic-schools/2",
+			"url": "http://www.dnd5eapi.co/api/magic-schools/2",
 			"name": "Conjuration"
 		},
 		"classes": [
 			{
-				"url": "http://dnd5eapi.co/api/classes/2",
+				"url": "http://www.dnd5eapi.co/api/classes/2",
 				"name": "Bard"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/10",
+				"url": "http://www.dnd5eapi.co/api/classes/10",
 				"name": "Sorcerer"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/12",
+				"url": "http://www.dnd5eapi.co/api/classes/12",
 				"name": "Wizard"
 			}
 		],
 		"subclasses": [],
-		"url": "http://dnd5eapi.co/api/spells/277"
+		"url": "http://www.dnd5eapi.co/api/spells/277"
 	},
 	{
 		"index": 278,
@@ -12251,21 +12251,21 @@
 		"level": 0,
 		"school": {
 			"name": "Transmutation",
-			"url": "http://dnd5eapi.co/api/magic-schools/8"
+			"url": "http://www.dnd5eapi.co/api/magic-schools/8"
 		},
 		"classes": [
 			{
-				"url": "http://dnd5eapi.co/api/classes/3",
+				"url": "http://www.dnd5eapi.co/api/classes/3",
 				"name": "Cleric"
 			}
 		],
 		"subclasses": [
 			{
 				"name": "Lore",
-				"url": "http://dnd5eapi.co/api/subclasses/2"
+				"url": "http://www.dnd5eapi.co/api/subclasses/2"
 			}
 		],
-		"url": "http://dnd5eapi.co/api/spells/278"
+		"url": "http://www.dnd5eapi.co/api/spells/278"
 	},
 	{
 		"index": 279,
@@ -12289,34 +12289,34 @@
 		"casting_time": "1 action",
 		"level": 1,
 		"school": {
-			"url": "http://dnd5eapi.co/api/magic-schools/5",
+			"url": "http://www.dnd5eapi.co/api/magic-schools/5",
 			"name": "Evocation"
 		},
 		"classes": [
 			{
-				"url": "http://dnd5eapi.co/api/classes/2",
+				"url": "http://www.dnd5eapi.co/api/classes/2",
 				"name": "Bard"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/4",
+				"url": "http://www.dnd5eapi.co/api/classes/4",
 				"name": "Druid"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/10",
+				"url": "http://www.dnd5eapi.co/api/classes/10",
 				"name": "Sorcerer"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/12",
+				"url": "http://www.dnd5eapi.co/api/classes/12",
 				"name": "Wizard"
 			}
 		],
 		"subclasses": [
 			{
 				"name": "Lore",
-				"url": "http://dnd5eapi.co/api/subclasses/2"
+				"url": "http://www.dnd5eapi.co/api/subclasses/2"
 			}
 		],
-		"url": "http://dnd5eapi.co/api/spells/279"
+		"url": "http://www.dnd5eapi.co/api/spells/279"
 	},
 	{
 		"index": 280,
@@ -12337,20 +12337,20 @@
 		"level": 9,
 		"school": {
 			"name": "Transmutation",
-			"url": "http://dnd5eapi.co/api/magic-schools/8"
+			"url": "http://www.dnd5eapi.co/api/magic-schools/8"
 		},
 		"classes": [
 			{
-				"url": "http://dnd5eapi.co/api/classes/10",
+				"url": "http://www.dnd5eapi.co/api/classes/10",
 				"name": "Sorcerer"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/12",
+				"url": "http://www.dnd5eapi.co/api/classes/12",
 				"name": "Wizard"
 			}
 		],
 		"subclasses": [],
-		"url": "http://dnd5eapi.co/api/spells/280"
+		"url": "http://www.dnd5eapi.co/api/spells/280"
 	},
 	{
 		"index": 281,
@@ -12374,26 +12374,26 @@
 		"casting_time": "1 minute",
 		"level": 3,
 		"school": {
-			"url": "http://dnd5eapi.co/api/magic-schools/5",
+			"url": "http://www.dnd5eapi.co/api/magic-schools/5",
 			"name": "Evocation"
 		},
 		"classes": [
 			{
-				"url": "http://dnd5eapi.co/api/classes/2",
+				"url": "http://www.dnd5eapi.co/api/classes/2",
 				"name": "Bard"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/12",
+				"url": "http://www.dnd5eapi.co/api/classes/12",
 				"name": "Wizard"
 			}
 		],
 		"subclasses": [
 			{
 				"name": "Lore",
-				"url": "http://dnd5eapi.co/api/subclasses/2"
+				"url": "http://www.dnd5eapi.co/api/subclasses/2"
 			}
 		],
-		"url": "http://dnd5eapi.co/api/spells/281"
+		"url": "http://www.dnd5eapi.co/api/spells/281"
 	},
 	{
 		"index": 282,
@@ -12414,38 +12414,38 @@
 		"casting_time": "1 action",
 		"level": 3,
 		"school": {
-			"url": "http://dnd5eapi.co/api/magic-schools/3",
+			"url": "http://www.dnd5eapi.co/api/magic-schools/3",
 			"name": "Divination"
 		},
 		"classes": [
 			{
-				"url": "http://dnd5eapi.co/api/classes/2",
+				"url": "http://www.dnd5eapi.co/api/classes/2",
 				"name": "Bard"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/3",
+				"url": "http://www.dnd5eapi.co/api/classes/3",
 				"name": "Cleric"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/10",
+				"url": "http://www.dnd5eapi.co/api/classes/10",
 				"name": "Sorcerer"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/11",
+				"url": "http://www.dnd5eapi.co/api/classes/11",
 				"name": "Warlock"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/12",
+				"url": "http://www.dnd5eapi.co/api/classes/12",
 				"name": "Wizard"
 			}
 		],
 		"subclasses": [
 			{
 				"name": "Lore",
-				"url": "http://dnd5eapi.co/api/subclasses/2"
+				"url": "http://www.dnd5eapi.co/api/subclasses/2"
 			}
 		],
-		"url": "http://dnd5eapi.co/api/spells/282"
+		"url": "http://www.dnd5eapi.co/api/spells/282"
 	},
 	{
 		"index": 283,
@@ -12465,17 +12465,17 @@
 		"casting_time": "1 action",
 		"level": 6,
 		"school": {
-			"url": "http://dnd5eapi.co/api/magic-schools/2",
+			"url": "http://www.dnd5eapi.co/api/magic-schools/2",
 			"name": "Conjuration"
 		},
 		"classes": [
 			{
-				"url": "http://dnd5eapi.co/api/classes/4",
+				"url": "http://www.dnd5eapi.co/api/classes/4",
 				"name": "Druid"
 			}
 		],
 		"subclasses": [],
-		"url": "http://dnd5eapi.co/api/spells/283"
+		"url": "http://www.dnd5eapi.co/api/spells/283"
 	},
 	{
 		"index": 284,
@@ -12496,26 +12496,26 @@
 		"casting_time": "1 action",
 		"level": 5,
 		"school": {
-			"url": "http://dnd5eapi.co/api/magic-schools/2",
+			"url": "http://www.dnd5eapi.co/api/magic-schools/2",
 			"name": "Conjuration"
 		},
 		"classes": [
 			{
-				"url": "http://dnd5eapi.co/api/classes/4",
+				"url": "http://www.dnd5eapi.co/api/classes/4",
 				"name": "Druid"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/8",
+				"url": "http://www.dnd5eapi.co/api/classes/8",
 				"name": "Ranger"
 			}
 		],
 		"subclasses": [
 			{
 				"name": "Land",
-				"url": "http://dnd5eapi.co/api/subclasses/4"
+				"url": "http://www.dnd5eapi.co/api/subclasses/4"
 			}
 		],
-		"url": "http://dnd5eapi.co/api/spells/284"
+		"url": "http://www.dnd5eapi.co/api/spells/284"
 	},
 	{
 		"index": 285,
@@ -12549,24 +12549,24 @@
 		"level": 9,
 		"school": {
 			"name": "Transmutation",
-			"url": "http://dnd5eapi.co/api/magic-schools/8"
+			"url": "http://www.dnd5eapi.co/api/magic-schools/8"
 		},
 		"classes": [
 			{
-				"url": "http://dnd5eapi.co/api/classes/2",
+				"url": "http://www.dnd5eapi.co/api/classes/2",
 				"name": "Bard"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/11",
+				"url": "http://www.dnd5eapi.co/api/classes/11",
 				"name": "Warlock"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/12",
+				"url": "http://www.dnd5eapi.co/api/classes/12",
 				"name": "Wizard"
 			}
 		],
 		"subclasses": [],
-		"url": "http://dnd5eapi.co/api/spells/285"
+		"url": "http://www.dnd5eapi.co/api/spells/285"
 	},
 	{
 		"index": 286,
@@ -12590,21 +12590,21 @@
 		"casting_time": "1 hour",
 		"level": 9,
 		"school": {
-			"url": "http://dnd5eapi.co/api/magic-schools/7",
+			"url": "http://www.dnd5eapi.co/api/magic-schools/7",
 			"name": "Necromancy"
 		},
 		"classes": [
 			{
-				"url": "http://dnd5eapi.co/api/classes/3",
+				"url": "http://www.dnd5eapi.co/api/classes/3",
 				"name": "Cleric"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/4",
+				"url": "http://www.dnd5eapi.co/api/classes/4",
 				"name": "Druid"
 			}
 		],
 		"subclasses": [],
-		"url": "http://dnd5eapi.co/api/spells/286"
+		"url": "http://www.dnd5eapi.co/api/spells/286"
 	},
 	{
 		"index": 287,
@@ -12626,33 +12626,33 @@
 		"casting_time": "1 action",
 		"level": 6,
 		"school": {
-			"url": "http://dnd5eapi.co/api/magic-schools/3",
+			"url": "http://www.dnd5eapi.co/api/magic-schools/3",
 			"name": "Divination"
 		},
 		"classes": [
 			{
-				"url": "http://dnd5eapi.co/api/classes/2",
+				"url": "http://www.dnd5eapi.co/api/classes/2",
 				"name": "Bard"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/3",
+				"url": "http://www.dnd5eapi.co/api/classes/3",
 				"name": "Cleric"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/10",
+				"url": "http://www.dnd5eapi.co/api/classes/10",
 				"name": "Sorcerer"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/11",
+				"url": "http://www.dnd5eapi.co/api/classes/11",
 				"name": "Warlock"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/12",
+				"url": "http://www.dnd5eapi.co/api/classes/12",
 				"name": "Wizard"
 			}
 		],
 		"subclasses": [],
-		"url": "http://dnd5eapi.co/api/spells/287"
+		"url": "http://www.dnd5eapi.co/api/spells/287"
 	},
 	{
 		"index": 288,
@@ -12669,34 +12669,34 @@
 		"casting_time": "1 action",
 		"level": 0,
 		"school": {
-			"url": "http://dnd5eapi.co/api/magic-schools/3",
+			"url": "http://www.dnd5eapi.co/api/magic-schools/3",
 			"name": "Divination"
 		},
 		"classes": [
 			{
-				"url": "http://dnd5eapi.co/api/classes/2",
+				"url": "http://www.dnd5eapi.co/api/classes/2",
 				"name": "Bard"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/10",
+				"url": "http://www.dnd5eapi.co/api/classes/10",
 				"name": "Sorcerer"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/11",
+				"url": "http://www.dnd5eapi.co/api/classes/11",
 				"name": "Warlock"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/12",
+				"url": "http://www.dnd5eapi.co/api/classes/12",
 				"name": "Wizard"
 			}
 		],
 		"subclasses": [
 			{
 				"name": "Lore",
-				"url": "http://dnd5eapi.co/api/subclasses/2"
+				"url": "http://www.dnd5eapi.co/api/subclasses/2"
 			}
 		],
-		"url": "http://dnd5eapi.co/api/spells/288"
+		"url": "http://www.dnd5eapi.co/api/spells/288"
 	},
 	{
 		"index": 289,
@@ -12720,30 +12720,30 @@
 		"casting_time": "1 action",
 		"level": 1,
 		"school": {
-			"url": "http://dnd5eapi.co/api/magic-schools/2",
+			"url": "http://www.dnd5eapi.co/api/magic-schools/2",
 			"name": "Conjuration"
 		},
 		"classes": [
 			{
-				"url": "http://dnd5eapi.co/api/classes/2",
+				"url": "http://www.dnd5eapi.co/api/classes/2",
 				"name": "Bard"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/11",
+				"url": "http://www.dnd5eapi.co/api/classes/11",
 				"name": "Warlock"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/12",
+				"url": "http://www.dnd5eapi.co/api/classes/12",
 				"name": "Wizard"
 			}
 		],
 		"subclasses": [
 			{
 				"name": "Lore",
-				"url": "http://dnd5eapi.co/api/subclasses/2"
+				"url": "http://www.dnd5eapi.co/api/subclasses/2"
 			}
 		],
-		"url": "http://dnd5eapi.co/api/spells/289"
+		"url": "http://www.dnd5eapi.co/api/spells/289"
 	},
 	{
 		"index": 290,
@@ -12766,26 +12766,26 @@
 		"casting_time": "1 action",
 		"level": 3,
 		"school": {
-			"url": "http://dnd5eapi.co/api/magic-schools/7",
+			"url": "http://www.dnd5eapi.co/api/magic-schools/7",
 			"name": "Necromancy"
 		},
 		"classes": [
 			{
-				"url": "http://dnd5eapi.co/api/classes/11",
+				"url": "http://www.dnd5eapi.co/api/classes/11",
 				"name": "Warlock"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/12",
+				"url": "http://www.dnd5eapi.co/api/classes/12",
 				"name": "Wizard"
 			}
 		],
 		"subclasses": [
 			{
 				"name": "Lore",
-				"url": "http://dnd5eapi.co/api/subclasses/2"
+				"url": "http://www.dnd5eapi.co/api/subclasses/2"
 			}
 		],
-		"url": "http://dnd5eapi.co/api/spells/290"
+		"url": "http://www.dnd5eapi.co/api/spells/290"
 	},
 	{
 		"index": 291,
@@ -12813,30 +12813,30 @@
 		"casting_time": "1 action",
 		"level": 4,
 		"school": {
-			"url": "http://dnd5eapi.co/api/magic-schools/5",
+			"url": "http://www.dnd5eapi.co/api/magic-schools/5",
 			"name": "Evocation"
 		},
 		"classes": [
 			{
-				"url": "http://dnd5eapi.co/api/classes/4",
+				"url": "http://www.dnd5eapi.co/api/classes/4",
 				"name": "Druid"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/10",
+				"url": "http://www.dnd5eapi.co/api/classes/10",
 				"name": "Sorcerer"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/12",
+				"url": "http://www.dnd5eapi.co/api/classes/12",
 				"name": "Wizard"
 			}
 		],
 		"subclasses": [
 			{
 				"name": "Fiend",
-				"url": "http://dnd5eapi.co/api/subclasses/11"
+				"url": "http://www.dnd5eapi.co/api/subclasses/11"
 			}
 		],
-		"url": "http://dnd5eapi.co/api/spells/291"
+		"url": "http://www.dnd5eapi.co/api/spells/291"
 	},
 	{
 		"index": 292,
@@ -12859,17 +12859,17 @@
 		"casting_time": "1 action",
 		"level": 5,
 		"school": {
-			"url": "http://dnd5eapi.co/api/magic-schools/5",
+			"url": "http://www.dnd5eapi.co/api/magic-schools/5",
 			"name": "Evocation"
 		},
 		"classes": [
 			{
-				"url": "http://dnd5eapi.co/api/classes/12",
+				"url": "http://www.dnd5eapi.co/api/classes/12",
 				"name": "Wizard"
 			}
 		],
 		"subclasses": [],
-		"url": "http://dnd5eapi.co/api/spells/292"
+		"url": "http://www.dnd5eapi.co/api/spells/292"
 	},
 	{
 		"index": 293,
@@ -12896,17 +12896,17 @@
 		"casting_time": "1 action",
 		"level": 6,
 		"school": {
-			"url": "http://dnd5eapi.co/api/magic-schools/5",
+			"url": "http://www.dnd5eapi.co/api/magic-schools/5",
 			"name": "Evocation"
 		},
 		"classes": [
 			{
-				"url": "http://dnd5eapi.co/api/classes/12",
+				"url": "http://www.dnd5eapi.co/api/classes/12",
 				"name": "Wizard"
 			}
 		],
 		"subclasses": [],
-		"url": "http://dnd5eapi.co/api/spells/293"
+		"url": "http://www.dnd5eapi.co/api/spells/293"
 	},
 	{
 		"index": 294,
@@ -12933,30 +12933,30 @@
 		"casting_time": "1 action",
 		"level": 5,
 		"school": {
-			"url": "http://dnd5eapi.co/api/magic-schools/5",
+			"url": "http://www.dnd5eapi.co/api/magic-schools/5",
 			"name": "Evocation"
 		},
 		"classes": [
 			{
-				"url": "http://dnd5eapi.co/api/classes/4",
+				"url": "http://www.dnd5eapi.co/api/classes/4",
 				"name": "Druid"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/10",
+				"url": "http://www.dnd5eapi.co/api/classes/10",
 				"name": "Sorcerer"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/12",
+				"url": "http://www.dnd5eapi.co/api/classes/12",
 				"name": "Wizard"
 			}
 		],
 		"subclasses": [
 			{
 				"name": "Land",
-				"url": "http://dnd5eapi.co/api/subclasses/4"
+				"url": "http://www.dnd5eapi.co/api/subclasses/4"
 			}
 		],
-		"url": "http://dnd5eapi.co/api/spells/294"
+		"url": "http://www.dnd5eapi.co/api/spells/294"
 	},
 	{
 		"index": 295,
@@ -12983,17 +12983,17 @@
 		"casting_time": "1 action",
 		"level": 6,
 		"school": {
-			"url": "http://dnd5eapi.co/api/magic-schools/2",
+			"url": "http://www.dnd5eapi.co/api/magic-schools/2",
 			"name": "Conjuration"
 		},
 		"classes": [
 			{
-				"url": "http://dnd5eapi.co/api/classes/4",
+				"url": "http://www.dnd5eapi.co/api/classes/4",
 				"name": "Druid"
 			}
 		],
 		"subclasses": [],
-		"url": "http://dnd5eapi.co/api/spells/295"
+		"url": "http://www.dnd5eapi.co/api/spells/295"
 	},
 	{
 		"index": 296,
@@ -13017,22 +13017,22 @@
 		"casting_time": "1 action",
 		"level": 2,
 		"school": {
-			"url": "http://dnd5eapi.co/api/magic-schools/1",
+			"url": "http://www.dnd5eapi.co/api/magic-schools/1",
 			"name": "Abjuration"
 		},
 		"classes": [
 			{
-				"url": "http://dnd5eapi.co/api/classes/3",
+				"url": "http://www.dnd5eapi.co/api/classes/3",
 				"name": "Cleric"
 			}
 		],
 		"subclasses": [
 			{
 				"name": "Lore",
-				"url": "http://dnd5eapi.co/api/subclasses/2"
+				"url": "http://www.dnd5eapi.co/api/subclasses/2"
 			}
 		],
-		"url": "http://dnd5eapi.co/api/spells/296"
+		"url": "http://www.dnd5eapi.co/api/spells/296"
 	},
 	{
 		"index": 297,
@@ -13055,37 +13055,37 @@
 		"level": 3,
 		"school": {
 			"name": "Transmutation",
-			"url": "http://dnd5eapi.co/api/magic-schools/8"
+			"url": "http://www.dnd5eapi.co/api/magic-schools/8"
 		},
 		"classes": [
 			{
-				"url": "http://dnd5eapi.co/api/classes/4",
+				"url": "http://www.dnd5eapi.co/api/classes/4",
 				"name": "Druid"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/8",
+				"url": "http://www.dnd5eapi.co/api/classes/8",
 				"name": "Ranger"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/10",
+				"url": "http://www.dnd5eapi.co/api/classes/10",
 				"name": "Sorcerer"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/12",
+				"url": "http://www.dnd5eapi.co/api/classes/12",
 				"name": "Wizard"
 			}
 		],
 		"subclasses": [
 			{
 				"name": "Lore",
-				"url": "http://dnd5eapi.co/api/subclasses/2"
+				"url": "http://www.dnd5eapi.co/api/subclasses/2"
 			},
 			{
 				"name": "Land",
-				"url": "http://dnd5eapi.co/api/subclasses/4"
+				"url": "http://www.dnd5eapi.co/api/subclasses/4"
 			}
 		],
-		"url": "http://dnd5eapi.co/api/spells/297"
+		"url": "http://www.dnd5eapi.co/api/spells/297"
 	},
 	{
 		"index": 298,
@@ -13108,37 +13108,37 @@
 		"level": 3,
 		"school": {
 			"name": "Transmutation",
-			"url": "http://dnd5eapi.co/api/magic-schools/8"
+			"url": "http://www.dnd5eapi.co/api/magic-schools/8"
 		},
 		"classes": [
 			{
-				"url": "http://dnd5eapi.co/api/classes/3",
+				"url": "http://www.dnd5eapi.co/api/classes/3",
 				"name": "Cleric"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/4",
+				"url": "http://www.dnd5eapi.co/api/classes/4",
 				"name": "Druid"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/8",
+				"url": "http://www.dnd5eapi.co/api/classes/8",
 				"name": "Ranger"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/10",
+				"url": "http://www.dnd5eapi.co/api/classes/10",
 				"name": "Sorcerer"
 			}
 		],
 		"subclasses": [
 			{
 				"name": "Lore",
-				"url": "http://dnd5eapi.co/api/subclasses/2"
+				"url": "http://www.dnd5eapi.co/api/subclasses/2"
 			},
 			{
 				"name": "Land",
-				"url": "http://dnd5eapi.co/api/subclasses/4"
+				"url": "http://www.dnd5eapi.co/api/subclasses/4"
 			}
 		],
-		"url": "http://dnd5eapi.co/api/spells/298"
+		"url": "http://www.dnd5eapi.co/api/spells/298"
 	},
 	{
 		"index": 299,
@@ -13164,30 +13164,30 @@
 		"casting_time": "1 action",
 		"level": 2,
 		"school": {
-			"url": "http://dnd5eapi.co/api/magic-schools/2",
+			"url": "http://www.dnd5eapi.co/api/magic-schools/2",
 			"name": "Conjuration"
 		},
 		"classes": [
 			{
-				"url": "http://dnd5eapi.co/api/classes/10",
+				"url": "http://www.dnd5eapi.co/api/classes/10",
 				"name": "Sorcerer"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/12",
+				"url": "http://www.dnd5eapi.co/api/classes/12",
 				"name": "Wizard"
 			}
 		],
 		"subclasses": [
 			{
 				"name": "Lore",
-				"url": "http://dnd5eapi.co/api/subclasses/2"
+				"url": "http://www.dnd5eapi.co/api/subclasses/2"
 			},
 			{
 				"name": "Land",
-				"url": "http://dnd5eapi.co/api/subclasses/4"
+				"url": "http://www.dnd5eapi.co/api/subclasses/4"
 			}
 		],
-		"url": "http://dnd5eapi.co/api/spells/299"
+		"url": "http://www.dnd5eapi.co/api/spells/299"
 	},
 	{
 		"index": 300,
@@ -13207,17 +13207,17 @@
 		"casting_time": "1 action",
 		"level": 9,
 		"school": {
-			"url": "http://dnd5eapi.co/api/magic-schools/6",
+			"url": "http://www.dnd5eapi.co/api/magic-schools/6",
 			"name": "Illusion"
 		},
 		"classes": [
 			{
-				"url": "http://dnd5eapi.co/api/classes/12",
+				"url": "http://www.dnd5eapi.co/api/classes/12",
 				"name": "Wizard"
 			}
 		],
 		"subclasses": [],
-		"url": "http://dnd5eapi.co/api/spells/300"
+		"url": "http://www.dnd5eapi.co/api/spells/300"
 	},
 	{
 		"index": 301,
@@ -13241,16 +13241,16 @@
 		"level": 6,
 		"school": {
 			"name": "Transmutation",
-			"url": "http://dnd5eapi.co/api/magic-schools/8"
+			"url": "http://www.dnd5eapi.co/api/magic-schools/8"
 		},
 		"classes": [
 			{
-				"url": "http://dnd5eapi.co/api/classes/4",
+				"url": "http://www.dnd5eapi.co/api/classes/4",
 				"name": "Druid"
 			}
 		],
 		"subclasses": [],
-		"url": "http://dnd5eapi.co/api/spells/301"
+		"url": "http://www.dnd5eapi.co/api/spells/301"
 	},
 	{
 		"index": 302,
@@ -13274,40 +13274,41 @@
 		"casting_time": "1 action",
 		"level": 3,
 		"school": {
-			"url": "http://dnd5eapi.co/api/magic-schools/5",
+			"url": "http://www.dnd5eapi.co/api/magic-schools/5",
 			"name": "Evocation"
 		},
 		"classes": [
 			{
-				"url": "http://dnd5eapi.co/api/classes/4",
+				"url": "http://www.dnd5eapi.co/api/classes/4",
 				"name": "Druid"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/8",
+				"url": "http://www.dnd5eapi.co/api/classes/8",
 				"name": "Ranger"
 			}
 		],
 		"subclasses": [
 			{
 				"name": "Lore",
-				"url": "http://dnd5eapi.co/api/subclasses/2"
+				"url": "http://www.dnd5eapi.co/api/subclasses/2"
 			}
 		],
-		"url": "http://dnd5eapi.co/api/spells/302"
+		"url": "http://www.dnd5eapi.co/api/spells/302"
 	},
 	{
 		"index": 303,
 		"name": "Wish",
 		"desc": [
-			"Desire is the most powerful spell a deadly creature can throw. Simply by speaking aloud, you can alter the very foundations of reality as you wish.",
-			"The most basic use of this spell is to duplicate any other out of 8th level or lower. You only need to fill out any conditions for that, not even the need for costly components. The fate simply takes effect. You can also create one of the following effects of your choice:",
-			"- You create one object of up to 25,000 gp in value that isn't a magic item. The object can be no more than 300 feet in any dimension, and it appears in an unoccupied space you can see on the ground.",
-			"- You allow a maximum of twenty creatures you can see to get all their points and you dispel all effects affecting them, as described in greater restoration spell.",
-			"- You grant to a maximum of ten creatures you can see resistance to a damage type you choose.",
-			"- You grant to a maximum of ten creatures you can see immunity to a single spell or other magical effect for 8 hours. For example, you can immunize yourself and your companions against the attack of the Lich draining.",
-			"- You cancel a recent event unique by requiring a new replacement jet diced any jet made during the last round (including your last turn). The reality is transformed to match the new launch. For example, a wish spell can cancel a successful saving throw enemy critical strike an opponent or ally saving throw missed. You can impose a jet with advantage or disadvantage, and you can choose to use the new result of the start or the old.",
-			"You can also do other things than the above examples. Describe your wishes to your MD in the most accurate way possible. The DM is free to determine what happens in this case; more desire, the more likely it is that something goes wrong. This spell may simply fail, the effect you want might be only partially executed, or you may suffer from unpredictable consequences depending on your formulation wish. For example, want an enemy died could propel you to a future time when your enemy is no longer alive, you effectively eliminating the game. Similarly, desiring a legendary magical object or artifact could carry you instantaneously in the presence of the current owner of the object.",
-			"Stress to cast this spell to produce an effect other than the reproduction of another spell weakens you. After undergoing this tension every time you cast a spell, and this until your next extended rest, you suffer 1d10 necrotic damage per spell level. This damage can not be reduced or avoided in any way. In addition, your Force falls to 3, if it is not already less than 3, for 2d4 days. For each day spent resting or practicing a minor activity, your recovery time decreases by 2 days. Finally, you have a 33% chance of never being able to cast the spell if you wish undergoes stress."
+			"Wish is the mightiest spell a mortal creature can cast. By simply speaking aloud, you can alter the very foundations of reality in accord with your desires.",
+			"The basic use of this spell is to duplicate any other spell of 8th level or lower. You don’t need to meet any requirements in that spell, including costly components. The spell simply takes effect.",
+			"Alternatively, you can create one of the following effects of your choice:",
+			"- You create one object of up to 25,000 gp in value that isn’t a magic item. The object can be no more than 300 feet in any dimension, and it appears in an unoccupied space you can see on the ground.",
+			"- You allow up to twenty creatures that you can see to regain all hit points, and you end all effects on them described in the greater restoration spell.",
+			"- You grant up to ten creatures that you can see resistance to a damage type you choose.",
+			"- You grant up to ten creatures you can see immunity to a single spell or other magical effect for 8 hours. For instance, you could make yourself and all your companions immune to a lich’s life drain attack.",
+			"- You undo a single recent event by forcing a reroll of any roll made within the last round (including your last turn). Reality reshapes itself to accommodate the new result. For example, a wish spell could undo an opponent’s successful save, a foe’s critical hit, or a friend’s failed save. You can force the reroll to be made with advantage or disadvantage, and you can choose whether to use the reroll or the original roll.",
+			"You might be able to achieve something beyond the scope of the above examples. State your wish to the GM as precisely as possible. The GM has great latitude in ruling what occurs in such an instance; the greater the wish, the greater the likelihood that something goes wrong. This spell might simply fail, the effect you desire might only be partly achieved, or you might suffer some unforeseen consequence as a result of how you worded the wish. For example, wishing that a villain were dead might propel you forward in time to a period when that villain is no longer alive, effectively removing you from the game. Similarly, wishing for a legendary magic item or artifact might instantly transport you to the presence of the item’s current owner.",
+			"The stress of casting this spell to produce any effect other than duplicating another spell weakens you. After enduring that stress, each time you cast a spell until you finish a long rest, you take 1d10 necrotic damage per level of that spell. This damage can’t be reduced or prevented in any way. In addition, your Strength drops to 3, if it isn’t 3 or lower already, for 2d4 days. For each of those days that you spend resting and doing nothing more than light activity, your remaining recovery time decreases by 2 days. Finally, there is a 33 percent chance that you are unable to cast wish ever again if you suffer this stress."
 		],
 		"page": "phb 288",
 		"range": "Self",
@@ -13320,21 +13321,21 @@
 		"casting_time": "1 action",
 		"level": 9,
 		"school": {
-			"url": "http://dnd5eapi.co/api/magic-schools/2",
+			"url": "http://www.dnd5eapi.co/api/magic-schools/2",
 			"name": "Conjuration"
 		},
 		"classes": [
 			{
-				"url": "http://dnd5eapi.co/api/classes/10",
+				"url": "http://www.dnd5eapi.co/api/classes/10",
 				"name": "Sorcerer"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/12",
+				"url": "http://www.dnd5eapi.co/api/classes/12",
 				"name": "Wizard"
 			}
 		],
 		"subclasses": [],
-		"url": "http://dnd5eapi.co/api/spells/303"
+		"url": "http://www.dnd5eapi.co/api/spells/303"
 	},
 	{
 		"index": 304,
@@ -13354,17 +13355,17 @@
 		"casting_time": "1 action",
 		"level": 6,
 		"school": {
-			"url": "http://dnd5eapi.co/api/magic-schools/2",
+			"url": "http://www.dnd5eapi.co/api/magic-schools/2",
 			"name": "Conjuration"
 		},
 		"classes": [
 			{
-				"url": "http://dnd5eapi.co/api/classes/3",
+				"url": "http://www.dnd5eapi.co/api/classes/3",
 				"name": "Cleric"
 			}
 		],
 		"subclasses": [],
-		"url": "http://dnd5eapi.co/api/spells/304"
+		"url": "http://www.dnd5eapi.co/api/spells/304"
 	},
 	{
 		"index": 305,
@@ -13386,32 +13387,32 @@
 		"level": 2,
 		"school": {
 			"name": "Enchantment",
-			"url": "http://dnd5eapi.co/api/magic-schools/4"
+			"url": "http://www.dnd5eapi.co/api/magic-schools/4"
 		},
 		"classes": [
 			{
-				"url": "http://dnd5eapi.co/api/classes/2",
+				"url": "http://www.dnd5eapi.co/api/classes/2",
 				"name": "Bard"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/3",
+				"url": "http://www.dnd5eapi.co/api/classes/3",
 				"name": "Cleric"
 			},
 			{
-				"url": "http://dnd5eapi.co/api/classes/7",
+				"url": "http://www.dnd5eapi.co/api/classes/7",
 				"name": "Paladin"
 			}
 		],
 		"subclasses": [
 			{
 				"name": "Lore",
-				"url": "http://dnd5eapi.co/api/subclasses/2"
+				"url": "http://www.dnd5eapi.co/api/subclasses/2"
 			},
 			{
 				"name": "Devotion",
-				"url": "http://dnd5eapi.co/api/subclasses/7"
+				"url": "http://www.dnd5eapi.co/api/subclasses/7"
 			}
 		],
-		"url": "http://dnd5eapi.co/api/spells/305"
+		"url": "http://www.dnd5eapi.co/api/spells/305"
 	}
 ]
