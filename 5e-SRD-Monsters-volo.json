@@ -315,7 +315,7 @@
 	"actions": [
 	{
 		"name": "Fist",
-		"desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 4 (ld4 + 2) bludgeoning damage plus 9 (2d8} necrotic damage"
+		"desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) bludgeoning damage plus 9 (2d8} necrotic damage"
 	},
 	{
 		"name": "Withering Gaze",
@@ -543,7 +543,7 @@
 	},
 	{
 		"name": "Dagger",
-		"desc": "Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft.  or range 20/60 ft., one target. Hit: 4 (ld4 + 2) piercing damage."
+		"desc": "Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft.  or range 20/60 ft., one target. Hit: 4 (1d4 + 2) piercing damage."
 	}
 	],
 	"legendary_actions": [{
@@ -812,15 +812,15 @@
 	},
 	{
 		"name": "Battleaxe",
-		"desc": "(Humanoid Form Only) Melee Weapon Attack: +6 to hit, reach S ft., one target. Hit: 8 (1d8 + 4) slashing damage, or 9 (ldlO + 4) slashing damage if used with two hands."
+		"desc": "(Humanoid Form Only) Melee Weapon Attack: +6 to hit, reach S ft., one target. Hit: 8 (1d8 + 4) slashing damage, or 9 (1dlO + 4) slashing damage if used with two hands."
 	},
 	{
 		"name": "Bite",
-		"desc": "(Hybrid Form Only) Melee Weapon Attack: +6 to hit, reach S ft., one creature. Hit: 6 (ld4 + 4) piercing damage."
+		"desc": "(Hybrid Form Only) Melee Weapon Attack: +6 to hit, reach S ft., one creature. Hit: 6 (1d4 + 4) piercing damage."
 	},
 	{
 		"name": "Claw",
-		"desc": "(Hybrid Form Only) Melee Weapon Attack: +6 to hit, reach S ft., one target. Hit: 7 (ld6 + 4) slashing damage."
+		"desc": "(Hybrid Form Only) Melee Weapon Attack: +6 to hit, reach S ft., one target. Hit: 7 (1d6 + 4) slashing damage."
 	},
 	{
 		"name": "Psychic Screech",
@@ -873,10 +873,10 @@
 	},
 	{
 		"name": "Claw",
-		"desc": " Melee Weapon Attack: +6 to hit, reach 5 ft., one target.  Hit: 8 (ld8 + 4) slashing damage."
+		"desc": " Melee Weapon Attack: +6 to hit, reach 5 ft., one target.  Hit: 8 (1d8 + 4) slashing damage."
 	},
 	{
-		"name": "Spear", "desc": "Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 7 (ld6 + 4) piercing damage, or 8 (ld8 + 4) piercing damage when used with two hands to make a melee attack."
+		"name": "Spear", "desc": "Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 7 (1d6 + 4) piercing damage, or 8 (1d8 + 4) piercing damage when used with two hands to make a melee attack."
 	},
 	{
 		"name": "Weakening Gaze",
@@ -1036,6 +1036,409 @@
 	{
 		"name": "Soul Rend",
 		"desc": "(Recharge 6). The devourer creates a vortex of life-draining energy in a 20-foot radius centered on itself. Each humanoid in that area must make a DC 18 Constitution saving throw, taking 44 (8dl0) necrotic damage on a failed save, or half as much damage on a successful one. Increase the damage by 10 for each living humanoid with O hit points in that area."
+	}
+	],
+	"legendary_actions": [{
+		"name": "",
+		"desc": "",
+		"attack_bonus": 0
+	}]
+},
+{
+	"index": 19,
+	"name": "Dreagloth",
+	"ref": "Volo",
+	"size": "large",
+	"type": "fiend",
+	"subtype": "demon",
+	"alignment": "chaotic evil",
+	"armor_class": 15,
+	"hit_points": 123,
+	"hit_dice": "13d10",
+	"speed": "30 ft.",
+	"strength": 20,
+	"dexterity": 15,
+	"constitution": 18,
+	"intelligence": 13,
+	"wisdom": 11,
+	"charisma": 11,
+	"Skills" : "Perception +3, Stealth +5",
+	"saves" : "",
+	"damage_vulnerabilities": "",
+	"damage_resistances": "cold, fire, lightning",
+	"damage_immunities": "poison",
+	"condition_immunities": "poisoned",
+	"senses": "darkvision 120 ft., passive Perception 13",
+	"languages": "Abyssal, Elvish, Undercommon",
+	"challenge_rating": 7,
+	"special_abilities": [
+	{
+		"name": "Fey Ancestry",
+		"desc": "The draegloth has advantage on saving throws against being charmed, and magic can't put it to sleep."
+	},
+	{
+		"name": "Innate Spellcasting",
+		"desc": "The draegloth's innate spellcasting ability is Charisma (spell save DC 11). The draegloth can innately cast the following spells, requiring no material components: At will: darkness 1/day each: confusion, dancing lights, faerie fire"
+	}
+	],
+	"actions": [
+	{
+		"name": "Multiattack",
+		"desc": "The draegloth makes three attacks: one with its bite and two with its claws."
+	},
+	{
+		"name": "Bite",
+		"desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one creature. Hit: 16 (2d10 + 5) piercing damage."
+	},
+	{
+		"name": "Claws",
+		"desc": "Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 16 (2d10 + 5) slashing damage."
+	}
+	],
+	"legendary_actions": [{
+		"name": "",
+		"desc": "",
+		"attack_bonus": 0
+	}]
+},
+{
+	"index": 20,
+	"name": "Firenewt Warrior",
+	"ref": "Volo",
+	"size": "medium",
+	"type": "humanoid",
+	"subtype": "Firenewt",
+	"alignment": "neutral evil",
+	"armor_class": 16,
+	"hit_points": 22,
+	"hit_dice": "4d8",
+	"speed": "30 ft.",
+	"strength": 10,
+	"dexterity": 13,
+	"constitution": 12,
+	"intelligence":  7,
+	"wisdom": 11,
+	"charisma":  8,
+	"Skills" : "",
+	"saves" : "",
+	"damage_vulnerabilities": "",
+	"damage_resistances": "",
+	"damage_immunities": "fire",
+	"condition_immunities": "",
+	"senses": "passive Perception 10",
+	"languages": "Draconic, Ignan",
+	"challenge_rating": 0.5,
+	"special_abilities": [
+	{
+		"name": "Amphibious",
+		"desc": "The firenewt can breathe air and water"
+	}
+	],
+	"actions": [
+	{
+		"name": "Multiattack",
+		"desc": "The firenewt makes two attacks with its scimitar."
+	},
+	{
+		"name": "Scimitar",
+		"desc": "Melee Weapon Attack: +3 to hit, reach 5 ft. , one target. Hit: 4 (1d6 + 1) slashing damage."
+	},
+	{
+		"name": "Spit Fire",
+		"desc": "(Recharges after a Short or Long Rest). The firenewt spits fire at a creature within 10 feet of it. The creature must make a DC 11 Dexterity saving throw, taking 9 (2d8) fire damage on a failed save, or half as much damage on a successful one."
+	}
+	],
+	"legendary_actions": [{
+		"name": "",
+		"desc": "",
+		"attack_bonus": 0
+	}]
+},
+{
+	"index": 21,
+	"name": "Firenewt Warlock",
+	"ref": "Volo",
+	"size": "medium",
+	"type": "humanoid",
+	"subtype": "Firenewt",
+	"alignment": "neutral evil",
+	"armor_class": 10,
+	"hit_points": 33,
+	"hit_dice": "6d8",
+	"speed": "30 ft.",
+	"strength": 13,
+	"dexterity": 11,
+	"constitution": 12,
+	"intelligence":  9,
+	"wisdom": 13,
+	"charisma": 14,
+	"Skills" : "",
+	"saves" : "",
+	"damage_vulnerabilities": "",
+	"damage_resistances": "",
+	"damage_immunities": "fire",
+	"condition_immunities": "",
+	"senses": "darkvision 120 ft. (penetrates magical darkness), passive Perception 10",
+	"languages": "Draconic, Ignan",
+	"challenge_rating": 1,
+	"special_abilities": [
+	{
+		"name": "Amphibious",
+		"desc": "The firenewt can breathe air and water"
+	},
+	{
+		"name": "Spellcasting",
+		"desc": "The firenewt is a 3rd-level spellcaster. Its spellcasting ability is Charisma (spell save DC 12, +4 to hit with spell attacks). It regains its expended spell slots when it finishes a short or long rest. It knows the following warlock spells: Cantrips (at will):.fire bolt, guidance, light, mage hand, prestidigitation 1st-2nd level (2 2nd-level slots): burning hands, flaming sphere, hellish rebuke, scorching ray"
+	},
+	{
+		"name": "Innate Spellcasting",
+		"desc": "The firenewt's innate spellcasting ability is Charisma. It can innately cast mage armor (self only) at will, requiring no material components."
+	},
+	{
+		"name": "Imix's Blessing",
+		"desc": "When the firenewt reduces an enemy to O hit points, the firenewt gains 5 temporary hit points."
+	}
+	],
+	"actions": [
+	{
+		"name": "Morningstar",
+		"desc": " Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 5 (1d8 + 1) piercing damage."
+	}
+	],
+	"legendary_actions": [{
+		"name": "",
+		"desc": "",
+		"attack_bonus": 0
+	}]
+},
+{
+	"index": 22,
+	"name": "Giant Strider",
+	"ref": "Volo",
+	"size": "large",
+	"type": "monstrosity",
+	"subtype": "Firenewt",
+	"alignment": "neutral evil",
+	"armor_class": 14,
+	"hit_points": 22,
+	"hit_dice": "3d10",
+	"speed": "30 ft.",
+	"strength": 18,
+	"dexterity": 13,
+	"constitution": 14,
+	"intelligence":  4,
+	"wisdom": 12,
+	"charisma":  6,
+	"Skills" : "",
+	"saves" : "",
+	"damage_vulnerabilities": "",
+	"damage_resistances": "",
+	"damage_immunities": "fire",
+	"condition_immunities": "",
+	"senses": "Passive Perception 11",
+	"languages": "Draconic, Ignan",
+	"challenge_rating": 1,
+	"special_abilities": [
+	{
+		"name": "Fire Absorption",
+		"desc": "Whenever the giant strider is subjected to fire clamage, it takes no damage and regains a number of hit points equal to half the fire damage dealt."
+	}
+	],
+	"actions": [
+	{
+		"name": "Bite",
+		"desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) piercing damage."
+	},
+	{
+		"name": "Fire Burst",
+		"desc": "(Recharge 5-6). The giant strider hurls a gout of flame at a point it can see within 60 feet of it. Each creature in a 10-foot-radius sphere centered on that point must make a DC 12 Dexterity saving throw, taking 14 (4d6) fire damage on a failed save, or half as much damage on a successful one. The fire spreads around corners, and it ignites flammable objects in that area that aren't being worn or carried."
+	}
+	],
+	"legendary_actions": [{
+		"name": "",
+		"desc": "",
+		"attack_bonus": 0
+	}]
+},
+{
+	"index": 23,
+	"name": "Flail Snail",
+	"ref": "Volo",
+	"size": "large",
+	"type": "elemental",
+	"subtype": "",
+	"alignment": "unaligned",
+	"armor_class": 16,
+	"hit_points": 52,
+	"hit_dice": "5d10",
+	"speed": "30 ft.",
+	"strength": 17,
+	"dexterity":  5,
+	"constitution": 20,
+	"intelligence":  3,
+	"wisdom": 10,
+	"charisma":  5,
+	"Skills" : "",
+	"saves" : "",
+	"damage_vulnerabilities": "",
+	"damage_resistances": "",
+	"damage_immunities": "fire, poison",
+	"condition_immunities": "poisoned",
+	"senses": "darkvision 60 ft., tremorsense 60 ft., passive Perception 10",
+	"languages": "",
+	"challenge_rating": 3,
+	"special_abilities": [
+	{
+		"name": "Antimagic Shell",
+		"desc": "The snail has advantage on saving throws against spells, and any creature making a spell attack against the snail has disadvantage on the attack roll. If the snail succeeds on its saving throw against a spell or a spell attack misses it, an additional effect might occur, as determined by rolling a d6: 1-2. If the spell affects an area or has multiple targets, it fails and has no effect. If the spell targets only the snail, it has no effect on the snail and is reflected back at the caster, using the spell slot level, spell save DC, attack bonus, and spellcasting ability of the caster.  3-4. No additional effect.  5-6. The snail's shell converts some of the spell's energy into a burst of destructive force. Each creature within 30 feet of the snail must make a DC 15 Constitution saving throw, taking ld6 force damage per level of the spell on a failed save, or half as much damage on a successful one."
+	},
+	{
+		"name": "Flail Tentacles",
+		"desc": "The flail snail has five flail tentacles. Whenever the snailitakes 10 damage or more on a single turn, one of its tentacles dies. If even one tentacle remains, the snail regrows all dead ones within ld4 days. If all its tentacles die, the snail retracts into its shell, gaining total cover, and it begins wailing, a sound that can be heard for 600 feet, stopping only when it dies 5d6 minutes later. Healing magic that restores limbs, such as the regenerate spell, can halt this dying process."
+	}
+	],
+	"actions": [
+	{
+		"name": "Multiattack",
+		"desc": "The flail snail makes as many Flail Tentacle attacks as it has flail tentacles, all against the same target."
+	},
+	{
+		"name": "Flail Tentacle",
+		"desc": "Melee Weapon Attack: +5 to hit, reach 10 ft., one target. Hit: 6 (1d6 + 3) bludgeoning damage."
+	},
+	{
+		"name": "Scintillating Shell",
+		"desc": "(Recharges after a Short or Long Rest). The snail's shell emits dazzling, colored light until the end of the snail's next turn. During this time, the shell sheds bright light in a 30-foot radius and dim light for an additional 30 feet, and creatures that can see the snail have disadvantage on attack rolls against it. In addition, any creature within the bright light and able to see the snail when this power is activated must succeed on a DC 15 Wisdom saving throw or be stunned until the light ends."
+	},
+	{
+		"name": "Shell Defense",
+		"desc": "The flail snail withdraws into its shell, gaining a +4 bonus to AC until it emerges. It can emerge from its shell as a bonus action on its turn."
+	}
+	],
+	"legendary_actions": [{
+		"name": "",
+		"desc": "",
+		"attack_bonus": 0
+	}]
+},
+{
+	"index": 24,
+	"name": "Froghemoth",
+	"ref": "Volo",
+	"size": "huge",
+	"type": "monstrosity",
+	"subtype": "",
+	"alignment": "unaligned",
+	"armor_class": 14,
+	"hit_points": 184,
+	"hit_dice": "16d12",
+	"speed": "30 ft., swim 30 ft.",
+	"strength": 23,
+	"dexterity": 13,
+	"constitution": 20,
+	"intelligence":  2,
+	"wisdom": 12,
+	"charisma":  5,
+	"Skills" : "Perception +9, Stealth +5",
+	"saves" : "Con +9, Wis +S",
+	"damage_vulnerabilities": "",
+	"damage_resistances": "fire, lightning",
+	"damage_immunities": "",
+	"condition_immunities": "",
+	"senses": "darkvision 60 ft., passive Perception 19",
+	"languages": "",
+	"challenge_rating": 10,
+	"special_abilities": [
+	{
+		"name": "Amphibious",
+		"desc": "The froghemoth can breathe air and water."
+	},
+	{
+		"name": "Shock Susceptibility",
+		"desc": "If the froghemoth takes lightning damage, it suffers several effects until the end of its next turn: its speed is halved, it takes a -2 penalty to AC and Dexterity saving throws, it can't use reactions or Multiattack, and on its turn, it can use either an action or a bonus action, not both."
+	}
+	],
+	"actions": [
+	{
+		"name": "Multiattack",
+		"desc": "The froghemoth makes two attacks with its tentacles. It can also use its tongue or bite."
+	},
+	{
+		"name": "Tentacle",
+		"desc": "Mefee Weapon Attack: +10 to hit, reach 20 ft., one target. Hit: 19 (3d8 + 6) bludgeoning damage, and the target is grappled (esc~pe DC 16) if it is a Huge or smaller creature. Until the grapple ends, the froghemoth can't use this tentacle on another target. The froghemoth has four tentacles."
+	},
+	{
+		"name": "Bite",
+		"desc": "Mefee Weapon Attack: +10 to hit, reach 5 ft., one target.  Hit: 22 (3dl0 + 6) piercing damage, and the target is swallowed if it is a Medium or smaller creature. A swallowed creature is blinded and restrained, has total cover against attacks and other effects outside the froghemoth, and takes 10 (3d6) acid damage at the start of each of the froghemoth's turns.  The froghemoth's gullet can hold up to two creatures at a time. If the froghemoth takes 20 damage or more on a single turn from a creature inside it, the froghemoth must succeed on a DC 20 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, each of which falls prone in a space within 10 feet of the froghemoth. If the froghemoth dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 10 feet of movement, exiting prone.  Tongue. The froghemoth targets one Medium or smaller creature that it can see within 20 feet of it. The target must make a DC 18 Strength saving throw. On a failed save, the target is pulled into an unoccupied space within 5 feet of the frog_hemoth, and the froghemoth can make a bite attack against it as a bonus action."
+	},
+	{
+		"name": "Shell Defense",
+		"desc": "The flail snail withdraws into its shell, gaining a +4 bonus to AC until it emerges. It can emerge from its shell as a bonus action on its turn."
+	}
+	],
+	"legendary_actions": [{
+		"name": "",
+		"desc": "",
+		"attack_bonus": 0
+	}]
+},
+{
+	"index": 25,
+	"name": "Cloud Giant Smiling One",
+	"ref": "Volo",
+	"size": "huge",
+	"type": "giant",
+	"subtype": "cloud",
+	"alignment": "chaotic neutral",
+	"armor_class": 15,
+	"hit_points": 262,
+	"hit_dice": "21d12",
+	"speed": "40 ft.",
+	"strength": 26,
+	"dexterity": 12,
+	"constitution": 22,
+	"intelligence": 15,
+	"wisdom": 16,
+	"charisma": 17,
+	"Skills" : "Deception +11, Insight +7, Perception +7, Sleight of Hand +9",
+	"saves" : "Con +10, Int +6, Cha +7",
+	"damage_vulnerabilities": "",
+	"damage_resistances": "",
+	"damage_immunities": "",
+	"condition_immunities": "",
+	"senses": "passive Perception 17",
+	"languages": "Common, Giant",
+	"challenge_rating": 11,
+	"special_abilities": [
+	{
+		"name": "Innate Spellcasting",
+		"desc": "The giant's innate spellcasting ability is Charisma (spell save DC 15). It can innately cast the following spells, requiring no material components: At will: detect magic.fog cloud, light 3/day each:feather fall, fly, misty step, telekinesis 1/day each: control weather, gaseous form"
+	},
+	{
+		"name": "Spellcasting",
+		"desc": "The giant is a 5th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). The giant has the following bard spells prepared: Cantrips (at will): minor illusion, prestidigitation, vicious mockery 1 st level (4 slots): cure wounds, disguise self, silent image, Tasha's hideous laughter 2nd level (3 slots): invisibility, suggestion 3rd level (2 slots): major image, tongues"
+	},
+	{
+		"name": "Keen Smell",
+		"desc": "The giant has advantage on Wisdom (Perception) checks that rely on smell."
+	}
+	],
+	"actions": [
+	{
+		"name": "Multiattack",
+		"desc": "The giant makes two attacks with its morningstar."
+	},
+	{
+		"name": "Morningstar",
+		"desc": "Melee Weapon Attack: +12 to hit, reach 10 ft., one target. Hit: 21 (3d8 + 8) bludgeoning damage. The attack deals an extra 14 (4d6) damage if the giant has advantage on the attack roll."
+	},
+	{
+		"name": "Rock",
+		"desc": "Ranged Weapon Attack: +12 to hit, range 60/240 ft., one target. Hit: 30 (4d10 + 8) bludgeoning damage. The attack deals an extra 14 (4d6) damage if the giant has advantage on the attack roll."
+	},
+	{
+		"name": "Change Shape",
+		"desc": "The giant magically polymorphs into a beast or humanoid it has seen, or back into its true form. Any equipment the giant is wearing or carrying is absorbed by the new form. Its statistics, other than its size, are the same in each form. It reverts to its true form if it dies."
 	}
 	],
 	"legendary_actions": [{
