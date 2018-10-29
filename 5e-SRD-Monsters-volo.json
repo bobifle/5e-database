@@ -1446,5 +1446,287 @@
 		"desc": "",
 		"attack_bonus": 0
 	}]
+},
+{
+	"index": 26,
+	"name": "Fire Giant Dreadnought",
+	"ref": "Volo",
+	"size": "huge",
+	"type": "giant",
+	"subtype": "fire",
+	"alignment": "lawful evil",
+	"armor_class": 21,
+	"hit_points": 187,
+	"hit_dice": "15d12",
+	"speed": "30 ft.",
+	"strength": 27,
+	"dexterity":  9,
+	"constitution": 23,
+	"intelligence":  8,
+	"wisdom": 10,
+	"charisma": 11,
+	"skills" : "Athletics +13, Perception +5",
+	"saves" : "Dex +4, Con +11, Cha +5",
+	"damage_vulnerabilities": "",
+	"damage_resistances": "",
+	"damage_immunities": "fire",
+	"condition_immunities": "",
+	"senses": "passive Perception 15",
+	"languages": "Giant",
+	"challenge_rating": 14,
+	"special_abilities": [
+	{
+		"name": "Dual Shields",
+		"desc": "The giant carries two shields, each of which is accounted for in the giant's AC. The giant must stow or drop one of its shields to hurl rocks."
+	}
+	],
+	"actions": [
+	{
+		"name": "Multiattack",
+		"desc": "The giant makes two fireshield attacks."
+	},
+	{
+		"name": "Fireshield",
+		"desc": "Melee Weapon Attack:+13 to hit, reach 5 ft., one target. Hit: 22 (4d6 + 8) bludgeoning damage plus 7 (2d6) fire damage plus 7 (2d6) piercing damage."
+	},
+	{
+		"name": "Rock",
+		"desc": "Ranged Weapon Attack: +13 to hit, range 60/240 ft., one target. Hit: 30 (4d10 + 8) bludgeoning damage."
+	},
+	{
+		"name": "Shield Charge",
+		"desc": "The giant moves up to 30 feet in a straight line and can move through the space of any creature smaller than Huge. The first time it enters a creature's space during this move, it makes a fireshield attack against that creature. If the attack hits, the target must also succeed on a DC 21 Strength saving throw or be pushed ahead of the giant for the rest of this move. If a creature fails the save by 5 or more, it is also knocked prone and takes 18 (3d6 + 8) bludgeoning damage, or 29 (6d6 + 8) bludgeoning damage if it was already prone."
+	}
+	],
+	"legendary_actions": [{
+		"name": "",
+		"desc": "",
+		"attack_bonus": 0
+	}]
+},
+{
+	"index": 27,
+	"name": "Frost Gian Everlasting One",
+	"ref": "Volo",
+	"size": "huge",
+	"type": "giant",
+	"subtype": "frost",
+	"alignment": "chaotic evil",
+	"armor_class": 15,
+	"hit_points": 189,
+	"hit_dice": "14d12",
+	"speed": "40 ft.",
+	"strength": 25,
+	"dexterity":  9,
+	"constitution": 24,
+	"intelligence":  9,
+	"wisdom": 10,
+	"charisma": 12,
+	"skills" : "Athletics +11, Perception +4",
+	"saves" : "Str +11, Con +11, Wis +4",
+	"damage_vulnerabilities": "",
+	"damage_resistances": "",
+	"damage_immunities": "cold",
+	"condition_immunities": "",
+	"senses": "passive Perception 14",
+	"languages": "Giant",
+	"challenge_rating": 12,
+	"special_abilities": [
+	{
+		"name": "Extra Heads",
+		"desc": "The giant has a 25 percent chance of having more than one head. If it has more than one, it has advantage on Wisdom (Perception) checks and on saving throws against being blinded, charmed, deafened, frightened, stunned, or knocked unconscious."
+	},
+	{
+		"name": "Regeneration",
+		"desc": "The giant regains 10 hit points at the start of its turn. If the giant takes acid or fire damage, this trait doesn't function at the start of its next turn. The giant dies only if it starts its turn with O hit points and doesn't regenerate."
+	},
+	{
+		"name": "Vaprak's Rage",
+		"desc": "(Recharges after a Short or Long Rest). As a bonus action, the giant can enter a rage at the start of its turn.  The rage lasts for 1 minute or until the giant is incapacitated.  While raging, the giant gains the following benefits: • The giant has advantage on Strength checks and Strength saving throws • When it makes a melee weapon attack, the giant gains a +4 bonus to the damage roll.  • The giant has resistance to bludgeoning, piercing, and slashing damage."
+	}
+	],
+	"actions": [
+	{
+		"name": "Multiattack",
+		"desc": "The giant makes two attacks with its greataxe."
+	},
+	{
+		"name": "Greataxe",
+		"desc": "Melee Weapon Attack: +11 to hit, reach 10 ft., one target. Hit: 26 (3dl2 + 7) slashing damage, or 30 (3d12 + 11) slashing damage while raging."
+	},
+	{
+		"name": "Rock",
+		"desc": "Ranged Weapon Attack: +11 to hit, range 60/240 ft., one target. Hit: 29 (4d10 + 7) bludgeoning damage."
+	}
+	],
+	"legendary_actions": [{
+		"name": "",
+		"desc": "",
+		"attack_bonus": 0
+	}]
+},
+{
+	"index": 28,
+	"name": "Mouth Of Grolantor",
+	"ref": "Volo",
+	"size": "huge",
+	"type": "giant",
+	"subtype": "hill",
+	"alignment": "chaotic evil",
+	"armor_class": 14,
+	"hit_points": 105,
+	"hit_dice": "10d12",
+	"speed": "50 ft.",
+	"strength": 21,
+	"dexterity":  10,
+	"constitution": 18,
+	"intelligence":  5,
+	"wisdom": 7,
+	"charisma": 5,
+	"skills" : "Perception +1",
+	"saves" : "",
+	"damage_vulnerabilities": "",
+	"damage_resistances": "",
+	"damage_immunities": "",
+	"condition_immunities": "frightened",
+	"senses": "passive Perception 14",
+	"languages": "Giant",
+	"challenge_rating": 6,
+	"special_abilities": [
+	{
+		"name": "Mouth of Madness",
+		"desc": "The giant is immune to confusion spells and similar magic.  On each of its turns, the giant uses all its movement to move toward the nearest creature or whatever else it might perceive as food . Roll a dlO at the start of each of the giant's turns to determine its action for that turn: 1-3. The giant makes three attacks with its fists against one random target within its reach. If no other creatures are within its reach, the giant flies into a rage and gains advantage on all attack rolls until the end of its next turn.  4-5. The giant makes one attack with its fist against every creature within its reach. If no other creatures are within its reach, the giant makes one fist attack against itself.  6-7. The giant makes one attack with its bite against one random target within its reach. If no other creatures are within its reach, its eyes glaze over and it becomes stunned until the start of its next turn.  8-10. The giant makes three attacks against one random target within its reach: one attack with its bite and two with its fists.  If no other creatures are within its reach, the giant flies into a rage and gains advantage on all attack rolls until the end of its next turn."
+	}
+	],
+	"actions": [
+	{
+		"name": "Bite",
+		"desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one creature.  Hit: 15 (3d6 + 5) piercing damage, and the giant magically regains hit points equal to the damage dealt."
+	},
+	{
+		"name": "Fist",
+		"desc": "Melee Weapon Attack: +8 to hit, reach 10 ft., one target.  Hit: 18 (3d8 + 5) bludgeoning damage."
+	}
+	],
+	"legendary_actions": [{
+		"name": "",
+		"desc": "",
+		"attack_bonus": 0
+	}]
+},
+{
+	"index": 29,
+	"name": "Stone Giant Dreamwalker",
+	"ref": "Volo",
+	"size": "huge",
+	"type": "giant",
+	"subtype": "stone",
+	"alignment": "chaotic neutral",
+	"armor_class": 18,
+	"hit_points": 161,
+	"hit_dice": "14d12",
+	"speed": "40 ft.",
+	"strength": 23,
+	"dexterity":  14,
+	"constitution": 21,
+	"intelligence": 10,
+	"wisdom": 8,
+	"charisma": 12,
+	"skills" : "Athletics +14, Perception +3",
+	"saves" : "",
+	"damage_vulnerabilities": "",
+	"damage_resistances": "",
+	"damage_immunities": "",
+	"condition_immunities": "charmed, frightened",
+	"senses": "darkvision 60 ft., passive Perception 13",
+	"languages": "Common, Giant",
+	"challenge_rating": 10,
+	"special_abilities": [
+	{
+		"name": "Dreamwalker's Charm",
+		"desc": "An enemy that starts its turn within 30 feet of the giant must make a DC 13 Charisma saving throw, provided that the giant isn't incapacitated. On a failed save, the creature is charmed by the giant. A creature charmed in this way can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. Once it succeeds on the saving throw, the creature is immune to this giant's Dreamwalker's Charm for 24 hours."
+	}
+	],
+	"actions": [
+	{
+		"name": "Multiattack",
+		"desc": "The giant makes two attacks with its greatclub.  Creatclub. Melee Weapon Attack: +10 to hit, reach 15 ft., one target. Hit: 19 (3d8 + 6) bludgeoning damage."
+	},
+	{
+		"name": "Petrifying Touch",
+		"desc": "The giant touches one Medium or smaller creature within 10 feet of it that is charmed by it. The target must make a DC 17 Constitution saving throw. On a failed save, the target becomes petriiied, and the giant can adhere the target to its stony body. Greater restoration spells and other magic that can undo petrification have no effect on a petrified creature on the giant unless the giant is dead, in which case the magic works normally, freeing the petrified creature as well as ending the petrified condition on it."
+	},
+	{
+		"name": "Rock",
+		"desc": "Ranged Weapon Attack:+10 to hit, range 60/240 ft., one target. Hit: 28 (4d10 + 6) bludgeoning damage. If the target is a creature, it must succeed on a DC 17 Strength saving throw or be knocked prone."
+	}
+	],
+	"legendary_actions": [{
+		"name": "",
+		"desc": "",
+		"attack_bonus": 0
+	}]
+},
+{
+	"index": 30,
+	"name": "Storm Giant Quintessent",
+	"ref": "Volo",
+	"size": "huge",
+	"type": "giant",
+	"subtype": "storm",
+	"alignment": "chaotic good",
+	"armor_class": 12,
+	"hit_points": 230,
+	"hit_dice": "20d12",
+	"speed": "50 ft., fly 50 ft. (hover), swim 50 ft.",
+	"strength": 29,
+	"dexterity":  14,
+	"constitution": 20,
+	"intelligence": 17,
+	"wisdom": 20,
+	"charisma": 19,
+	"skills" : "Arcana +8, History +8, Perception +10",
+	"saves" : "Str +14, Con +10, Wis +10, Cha +9",
+	"damage_vulnerabilities": "",
+	"damage_resistances": "cold, bludgeoning, piercing, and slashing from nonmagical attacks",
+	"damage_immunities": "lightning, thunder",
+	"condition_immunities": "charmed, frightened",
+	"senses": "truesight 60 ft., passive Perception 20",
+	"languages": "Common, Giant",
+	"challenge_rating": 16,
+	"special_abilities": [
+	{
+		"name": "Amphibious",
+		"desc": "The giant can breathe air and water."
+	}
+	],
+	"actions": [
+	{
+		"name": "Multiattack",
+		"desc": "The giant makes two Lightning Sword attacks or uses Wind Javelin twice."
+	},
+	{
+		"name": "Lightning Sword",
+		"desc": "Melee Weapon Attack: +14 to hit, reach 15 ft ., one target. Hit: 40 (9d6 + 9) lightning damage."
+	},
+	{
+		"name": "Wind Javelin",
+		"desc": "The giant coalesces wind into a javelin -like form and hurls it at a creature it can see within 600 feet of it. The javetin is considered a magic weapon and deals 19 (3d6 + 9) piercing damage to the target, striking unerringly. The javelin disappears after it hits."
+	}
+	],
+	"legendary_actions": [
+	{
+		"name": "Gust",
+		"desc": "The giant targets a creature it can see within 60 feet of it and creates a magical gust of wind around it. The target must succeed on a DC 18 Strength saving throw or be pushed up to 20 feet in any horizontal direction the giant chooses."
+	},
+	{
+		"name": "Thunderbolt",
+		"desc": "(2 Actions). The giant hurls a thunderbolt at a creature it can see within 600 feet of it. The target must make a DC 18 Dexterity saving throw, taking 22 (4d10) thunder damage on a failed save, or half as much damage on a successful one."
+	},
+	{
+		"name": "One with the Storm",
+		"desc": "The giant vanishes, dispersing itself into the storm surrounding its lair. The giant can end this effect at the start of any of its turns, becoming a giant once more and appearing in any location it chooses within its lair. While dispersed, the giant can't take any actions other than lair actions, and it can't be targeted by attacks, spells, or other effects. The giant can't use this ability outside its lair, nor can it use this ability if another creature is using a control weaiher spell or similar magic to quell the storm."
+	}
+	]
 }
 ]
