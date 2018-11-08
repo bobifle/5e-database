@@ -812,7 +812,7 @@
 	},
 	{
 		"name": "Battleaxe",
-		"desc": "(Humanoid Form Only) Melee Weapon Attack: +6 to hit, reach S ft., one target. Hit: 8 (1d8 + 4) slashing damage, or 9 (1dlO + 4) slashing damage if used with two hands."
+		"desc": "(Humanoid Form Only) Melee Weapon Attack: +6 to hit, reach S ft., one target. Hit: 8 (1d8 + 4) slashing damage, or 9 (1d10 + 4) slashing damage if used with two hands."
 	},
 	{
 		"name": "Bite",
@@ -1595,7 +1595,7 @@
 	"special_abilities": [
 	{
 		"name": "Mouth of Madness",
-		"desc": "The giant is immune to confusion spells and similar magic.  On each of its turns, the giant uses all its movement to move toward the nearest creature or whatever else it might perceive as food . Roll a dlO at the start of each of the giant's turns to determine its action for that turn: 1-3. The giant makes three attacks with its fists against one random target within its reach. If no other creatures are within its reach, the giant flies into a rage and gains advantage on all attack rolls until the end of its next turn.  4-5. The giant makes one attack with its fist against every creature within its reach. If no other creatures are within its reach, the giant makes one fist attack against itself.  6-7. The giant makes one attack with its bite against one random target within its reach. If no other creatures are within its reach, its eyes glaze over and it becomes stunned until the start of its next turn.  8-10. The giant makes three attacks against one random target within its reach: one attack with its bite and two with its fists.  If no other creatures are within its reach, the giant flies into a rage and gains advantage on all attack rolls until the end of its next turn."
+		"desc": "The giant is immune to confusion spells and similar magic.  On each of its turns, the giant uses all its movement to move toward the nearest creature or whatever else it might perceive as food .Roll a d10 at the start of each of the giant's turns to determine its action for that turn: 1-3. The giant makes three attacks with its fists against one random target within its reach. If no other creatures are within its reach, the giant flies into a rage and gains advantage on all attack rolls until the end of its next turn.  4-5. The giant makes one attack with its fist against every creature within its reach. If no other creatures are within its reach, the giant makes one fist attack against itself.  6-7. The giant makes one attack with its bite against one random target within its reach. If no other creatures are within its reach, its eyes glaze over and it becomes stunned until the start of its next turn.  8-10. The giant makes three attacks against one random target within its reach: one attack with its bite and two with its fists.  If no other creatures are within its reach, the giant flies into a rage and gains advantage on all attack rolls until the end of its next turn."
 	}
 	],
 	"actions": [
@@ -1728,5 +1728,334 @@
 		"desc": "The giant vanishes, dispersing itself into the storm surrounding its lair. The giant can end this effect at the start of any of its turns, becoming a giant once more and appearing in any location it chooses within its lair. While dispersed, the giant can't take any actions other than lair actions, and it can't be targeted by attacks, spells, or other effects. The giant can't use this ability outside its lair, nor can it use this ability if another creature is using a control weaiher spell or similar magic to quell the storm."
 	}
 	]
+},
+{
+	"index": 31,
+	"name": "Girallon",
+	"ref": "Volo",
+	"size": "large",
+	"type": "monstrosity",
+	"subtype": "",
+	"alignment": "unaligned",
+	"armor_class": 12,
+	"hit_points": 59,
+	"hit_dice": "7d10",
+	"speed": "Speed 40 ft., climb 40 ft.",
+	"strength": 18,
+	"dexterity":  16,
+	"constitution": 16,
+	"intelligence":  5,
+	"wisdom": 12,
+	"charisma":  7,
+	"skills" : "Perception +3, Stealth +5",
+	"saves" : "",
+	"damage_vulnerabilities": "",
+	"damage_resistances": "",
+	"damage_immunities": "",
+	"condition_immunities": "",
+	"senses": "darkvision 60 ft., passive Perception 13",
+	"languages": "",
+	"challenge_rating": 4,
+	"special_abilities": [
+	{
+		"name": "Aggressive",
+		"desc": "As a bonus action, the girallon can move up to its speed toward a hostile creature that it can see."
+	},
+	{
+		"name": "Keen Smell",
+		"desc": "The girallon has advantage on Wisdom (Perception) checks that rely on smell."
+	}
+	],
+	"actions": [
+	{
+		"name": "Multiattack",
+		"desc": "The girallon makes five attacks: one with its bite and four with its claws."
+	},
+	{
+		"name": "Bite",
+		"desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one creature.  Hit: 7 (1d6 + 4) piercing damage."
+	},
+	{
+		"name": "Claw",
+		"desc": "Melee Weapon Attack: +6 to hit, reach 10 ft., one target.  Hit: 7 (ld6 + 4) slashing damage."
+	}
+	],
+	"legendary_actions": [
+	]
+},
+{
+	"index": 32,
+	"name": "Flind",
+	"ref": "Volo",
+	"size": "medium",
+	"type": "humanoid",
+	"subtype": "gnoll",
+	"alignment": "chaotic evil",
+	"armor_class": 16,
+	"hit_points": 127,
+	"hit_dice": "15d8",
+	"speed": "Speed 30 ft.",
+	"strength": 20,
+	"dexterity":  10,
+	"constitution": 19,
+	"intelligence": 11,
+	"wisdom": 13,
+	"charisma": 12,
+	"skills" : "Intimidate +5, Perception +5",
+	"saves" : "Con +8, Wis +5",
+	"damage_vulnerabilities": "",
+	"damage_resistances": "",
+	"damage_immunities": "",
+	"condition_immunities": "",
+	"senses": "darkvision 60 ft., passive Perception 15",
+	"languages": "Gnoll, Abyssal",
+	"challenge_rating": 9,
+	"special_abilities": [
+	{
+		"name": "Aura of Blood Thirst",
+		"desc": "If the flind isn't incapacitated, any creature with the Rampage trait can make a bite attack as a bonus action while within 10 feet of the flind."
+	}
+	],
+	"actions": [
+	{
+		"name": "Multiattack",
+		"desc": "The flind makes three attacks: one with each of its different flail attacks or three with its longbow."
+	},
+	{
+		"name": "Flail of Madness",
+		"desc": "Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 10 (1d10 + 5) bludgeoning damage, and the target must make a DC 16 Wisdom saving throw. On a failed save, the target must make a melee attack against a random target within its reach on its next turn. If it has no targets within its reach even after moving, it loses its action on that turn."
+	},
+	{
+		"name": "Flail of Pain",
+		"desc": "Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 10 (1d10 + 5) bludgeoning damage plus 22 (4d10) psychic damage."
+	},
+	{
+		"name": "Flail of Paralysis",
+		"desc": "Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 10 (1d10 + 5) bludgeoning damage, and the target must succeed on a DC 16 Constitution saving throw or be paralyzed until the end of its next turn."
+	},
+	{
+		"name": "Longbow",
+		"desc": "Ranged Weapon Attack: +4 to hit, range 150/600, one target. Hit: 4 (1d8) piercing damage."
+	}
+	],
+	"legendary_actions": [
+	]
+},
+{
+	"index": 33,
+	"name": "Gnoll Hunter",
+	"ref": "Volo",
+	"size": "medium",
+	"type": "humanoid",
+	"subtype": "gnoll",
+	"alignment": "chaotic evil",
+	"armor_class": 13,
+	"hit_points": 22,
+	"hit_dice": "4d8",
+	"speed": "Speed 30 ft.",
+	"strength": 14,
+	"dexterity":  14,
+	"constitution": 12,
+	"intelligence":  8,
+	"wisdom": 12,
+	"charisma":  8,
+	"skills" : "Perception +3, Stealth +4",
+	"saves" : "",
+	"damage_vulnerabilities": "",
+	"damage_resistances": "",
+	"damage_immunities": "",
+	"condition_immunities": "",
+	"senses": "darkvision 60 ft., passive Perception 13",
+	"languages": "Gnoll",
+	"challenge_rating": 0.5,
+	"special_abilities": [
+	{
+		"name": "Rampage",
+		"desc": "When the gnoll reduces a creature to O hit points with a melee attack on its turn, the gnoll can take a bonus action to move up to half its speed and make a bite attack."
+	}
+	],
+	"actions": [
+	{
+		"name": "Multiattack",
+		"desc": "The gnoll makes two melee attacks with its spear or two ranged attacks with its longbow."
+	},
+	{
+		"name": "Bite",
+		"desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage."
+	},
+	{
+		"name": "Spear",
+		"desc": "Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 5 (1d6 + 2) piercing damage"
+	},
+	{
+		"name": "Longbow",
+		"desc": "Ranged Weapon AUack: +4 to hit, range 150/600 ft., one target. Hit: 6 (1d8 + 2) piercing damage, and the target's speed is reduced by 10 feet until the end of its next turn."
+	}
+	],
+	"legendary_actions": [
+	]
+},
+{
+	"index": 34,
+	"name": "Gnoll Flesh Gnawer",
+	"ref": "Volo",
+	"size": "medium",
+	"type": "humanoid",
+	"subtype": "gnoll",
+	"alignment": "chaotic evil",
+	"armor_class": 14,
+	"hit_points": 22,
+	"hit_dice": "4d8",
+	"speed": "Speed 30 ft.",
+	"strength": 12,
+	"dexterity":  14,
+	"constitution": 12,
+	"intelligence":  8,
+	"wisdom": 10,
+	"charisma":  8,
+	"skills" : "",
+	"saves" : "Dex +4",
+	"damage_vulnerabilities": "",
+	"damage_resistances": "",
+	"damage_immunities": "",
+	"condition_immunities": "",
+	"senses": "darkvision 60 ft., passive Perception 10",
+	"languages": "Gnoll",
+	"challenge_rating": 1,
+	"special_abilities": [
+	{
+		"name": "Rampage",
+		"desc": "When the gnoll reduces a creature to O hit points with a melee attack on its turn, the gnoll can take a bonus action to move up to half its speed and make a bite attack."
+	}
+	],
+	"actions": [
+	{
+		"name": "Multiattack",
+		"desc": "The gnoll makes three attacks: one with its bite and two with its shortsword"
+	},
+	{
+		"name": "Bite",
+		"desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage."
+	},
+	{
+		"name": "Shortsword",
+		"desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage."
+	},
+	{
+		"name": "Longbow",
+		"desc": "Ranged Weapon AUack: +4 to hit, range 150/600 ft., one target. Hit: 6 (1d8 + 2) piercing damage, and the target's speed is reduced by 10 feet until the end of its next turn."
+	},
+	{
+		"name": "Sudden Rush",
+		"desc": "Until the end of the turn, the gnoll's speed increases by 60 feet and it doesn't provoke opportunity attacks."
+	}
+	],
+	"legendary_actions": [
+	]
+},
+{
+	"index": 35,
+	"name": "Gnoll Witherling",
+	"ref": "Volo",
+	"size": "medium",
+	"type": "undead",
+	"subtype": "gnoll",
+	"alignment": "chaotic evil",
+	"armor_class": 12,
+	"hit_points": 11,
+	"hit_dice": "2d8",
+	"speed": "Speed 30 ft.",
+	"strength": 14,
+	"dexterity":   8,
+	"constitution": 12,
+	"intelligence":  5,
+	"wisdom":  5,
+	"charisma":  5,
+	"skills" : "",
+	"saves" : "Dex +4",
+	"damage_vulnerabilities": "",
+	"damage_resistances": "",
+	"damage_immunities": "poison",
+	"condition_immunities": "exhaustion, poisoned",
+	"senses": "darkvision 60 ft., passive Perception 7",
+	"languages": "understand Gnoll but can't speak",
+	"challenge_rating": 0.25,
+	"special_abilities": [
+	{
+		"name": "Rampage",
+		"desc": "When the Witherling reduces a creature to O hit points with a melee attack on its turn, the gnoll can take a bonus action to move up to half its speed and make a bite attack."
+	}
+	],
+	"actions": [
+	{
+		"name": "Multiattack",
+		"desc": "The gnoll makes three attacks: one with its bite and two with its shortsword"
+	},
+	{
+		"name": "Bite",
+		"desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage."
+	},
+	{
+		"name": "Club",
+		"desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (ld4 + 2) bludgeoning damage."
+	}
+	],
+	"reactions": [
+	{
+		"name": "Vengeful Strike",
+		"desc": "In response to a gnoll being reduced to O hit points within 30 feet of the witherling, the witherling makes a melee attack."
+	}
+	],
+	"legendary_actions": []
+},
+{
+	"index": 36,
+	"name": "Grung",
+	"ref": "Volo",
+	"size": "small",
+	"type": "humanoid",
+	"subtype": "grung",
+	"alignment": "lawful evil",
+	"armor_class": 12,
+	"hit_points": 11,
+	"hit_dice": "2d6",
+	"speed": "Speed 25 ft., climb 25 ft.",
+	"strength":  7,
+	"dexterity":  14,
+	"constitution": 15,
+	"intelligence": 10,
+	"wisdom": 11,
+	"charisma": 10,
+	"skills" : "",
+	"saves" : "Dex +4",
+	"damage_vulnerabilities": "Athletics +2, Perception +2, Stealth +4, Survival +2",
+	"damage_resistances": "",
+	"damage_immunities": "poison",
+	"condition_immunities": "poisoned",
+	"senses": "passive Perception 12",
+	"languages": "Grung",
+	"challenge_rating": 0.25,
+	"special_abilities": [
+	{
+		"name": "Amphibious",
+		"desc": "The grung can breathe air and water."
+	},
+	{
+		"name": "Poisonous Skin",
+		"desc": "Any creature that grapples the grung or otherwise comes into direct contact with the grung's skin must succeed on a DC 12 Constitution saving throw or become poisoned for 1 minute. A poisoned creature no longer in direct contact with the grung can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success."
+	},
+	{
+		"name": "Standing Leap",
+		"desc": "The grung's long jump is up to 25 feet and its high jump is up to 15 feet, with or without a running start."
+	}
+	],
+	"actions": [
+	{
+		"name": "Dagger",
+		"desc": "Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft.  or range 20/60 ft., one target. Hit: 4 (1d4 + 2) piercing damage, and the target must succeed on a DC 12 Constitution saving throw or take 5 (2d4) poison damage."
+	}
+	],
+	"reactions": [],
+	"legendary_actions": []
 }
 ]
