@@ -2026,9 +2026,9 @@
 	"intelligence": 10,
 	"wisdom": 11,
 	"charisma": 10,
-	"skills" : "",
+	"skills" : "Athletics +2, Perception +2, Stealth +4, Survival +2",
 	"saves" : "Dex +4",
-	"damage_vulnerabilities": "Athletics +2, Perception +2, Stealth +4, Survival +2",
+	"damage_vulnerabilities": "",
 	"damage_resistances": "",
 	"damage_immunities": "poison",
 	"condition_immunities": "poisoned",
@@ -2076,9 +2076,9 @@
 	"intelligence": 10,
 	"wisdom": 11,
 	"charisma": 10,
-	"skills" : "",
+	"skills" : "Athletics +2, Perception +2, Stealth +4, Survival +2",
 	"saves" : "Dex +4",
-	"damage_vulnerabilities": "Athletics +2, Perception +2, Stealth +4, Survival +2",
+	"damage_vulnerabilities": "",
 	"damage_resistances": "",
 	"damage_immunities": "poison",
 	"condition_immunities": "poisoned",
@@ -2126,9 +2126,9 @@
 	"intelligence": 10,
 	"wisdom": 15,
 	"charisma": 11,
-	"skills" : "",
+	"skills" : "Athletics +2, Perception +4, Stealth +5, Survival +2",
 	"saves" : "Dex +5",
-	"damage_vulnerabilities": "Athletics +2, Perception +4, Stealth +5, Survival +2",
+	"damage_vulnerabilities": "",
 	"damage_resistances": "",
 	"damage_immunities": "poison",
 	"condition_immunities": "poisoned",
@@ -2184,9 +2184,9 @@
 	"intelligence": 10,
 	"wisdom": 11,
 	"charisma": 12,
-	"skills" : "",
+	"skills" : "Athletics +2, Perception +2, Stealth +5, Survival +2",
 	"saves" : "Dex +5",
-	"damage_vulnerabilities": "Athletics +2, Perception +2, Stealth +5, Survival +2",
+	"damage_vulnerabilities": "",
 	"damage_resistances": "",
 	"damage_immunities": "poison",
 	"condition_immunities": "poisoned",
@@ -2242,9 +2242,9 @@
 	"intelligence":  4,
 	"wisdom": 10,
 	"charisma":  7,
-	"skills" : "",
+	"skills" : "Perception +2",
 	"saves" : "",
-	"damage_vulnerabilities": "Perception +2",
+	"damage_vulnerabilities": "",
 	"damage_resistances": "",
 	"damage_immunities": "",
 	"condition_immunities": "",
@@ -2265,6 +2265,543 @@
 	{
 		"name": "Tail",
 		"desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) bludgeoning damage."
+	}
+	],
+	"reactions": [],
+	"legendary_actions": []
+},
+{
+	"index": 41,
+	"name": "Annis Hag",
+	"ref": "Volo",
+	"size": "large",
+	"type": "fey",
+	"subtype": "",
+	"alignment": "chaotic evil",
+	"armor_class": 17,
+	"hit_points": 75,
+	"hit_dice": "10d10",
+	"speed": "Speed 40 ft.",
+	"strength": 21,
+	"dexterity":  12,
+	"constitution": 14,
+	"intelligence": 13,
+	"wisdom": 14,
+	"charisma": 15,
+	"skills" : "Deception +5, Perception +5",
+	"saves" : "Con +5",
+	"damage_vulnerabilities": "",
+	"damage_resistances": "cold, bludgeoning, piercing, and slashing from nonmagical attacks",
+	"damage_immunities": "",
+	"condition_immunities": "",
+	"senses": "darkvision 60 ft., passive Perception 15",
+	"languages": "Common, Giant, Sylvan",
+	"challenge_rating": 6,
+	"special_abilities": [
+	{
+		"name": "Innate Spellcasting",
+		"desc": "The hag's innate spellcasting ability is Charisma (spell save DC 13). She can innately cast the following spells: 3/day each: disguise self (including the form of a Medium humanoid), fog cloud"
+	}
+	],
+	"actions": [
+	{
+		"name": "Multiattack",
+		"desc": "The annis makes three attacks: one with her bite and two with her claws."
+	},
+	{
+		"name": "Bite",
+		"desc": "Mefee Weapon Attack: +8 to hit, reach 5 ft., one target.  Hit: 15 (3d6 + 5) piercing damage."
+	},
+	{
+		"name": "Claw",
+		"desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target.  Hit: 15 (3d6 + 5) slashing damage."
+	},
+	{
+		"name": "Crushing Hug",
+		"desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 36 (9d6 + 5) bludgeoning damage, and the target is grappled {escape DC 15) if it is a Large or smaller creature. Until the grapple ends, the target takes 36 (9d6 + 5) bludgeoning damage at the start of each of the hag's turns. The hag can't make attacks while grappling a creature in this way."
+	}
+	],
+	"reactions": [],
+	"legendary_actions": []
+},
+{
+	"index": 42,
+	"name": "Bheur Hag",
+	"ref": "Volo",
+	"size": "medium",
+	"type": "fey",
+	"subtype": "",
+	"alignment": "chaotic evil",
+	"armor_class": 17,
+	"hit_points": 91,
+	"hit_dice": "14d8",
+	"speed": "Speed 30 ft.",
+	"strength": 13,
+	"dexterity":  16,
+	"constitution": 14,
+	"intelligence": 12,
+	"wisdom": 13,
+	"charisma": 16,
+	"skills" : "Nature +4, Perception +4, Stealth +6, Survival +4",
+	"saves" : "Wis +4",
+	"damage_vulnerabilities": "",
+	"damage_resistances": "",
+	"damage_immunities": "cold",
+	"condition_immunities": "",
+	"senses": "darkvision 60 ft., passive Perception 14",
+	"languages": "Auran, Common, Giant",
+	"challenge_rating": 7,
+	"special_abilities": [
+	{
+		"name": "Innate Spellcasting",
+		"desc": "The hag's innate spellcasting ability is Charisma (spell save DC 14, +6 to hit with spell attacks). She can innately cast the following spells, requiring no material components: At will: hold person,* ray offrost 3/day each: cone of cold,* ice storm,* wall of ice* 1/day each: control weather"
+	},
+	{
+		"name": "Craystaff Magic",
+		"desc": "The hag carries a graystaff, a length of gray wood that is a focus for her inner power. She can ride the staff as if it were a broom offlying. While holding the staff, she can cast additional spells with her Innate Spellcasting trait (these spells are marked with an asterisk). If the staff is lost or destroyed, the hag must craft another, which takes a year and a day. Only a bheur hag can use a graystaff.  Ice Walk. The hag can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost her extra moment."
+	}
+	],
+	"actions": [
+	{
+		"name": "Slam",
+		"desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 10 (2d8 + 1) bludgeoning damage plus 3 (1d6) cold damage."
+	},
+	{
+		"name": "Maddening Feast",
+		"desc": "The hag feasts on the corpse of one enemy within 5 feet of her that died within the past minute. Each creature of the hag's choice that is within 60 feet of her and able to see her must succeed on a DC 15 Wisdom saving throw or be frightened of her for 1 minute. While frightened in this way, a creature is incapacitated, can't understand what others say, can't read, and speaks only in gibberish; the OM controls the creature's movement, which is erratic. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success . If a creature's saving throw is successful or the effect ends for it, the creature is immune to the hag's Maddening Feast for the next 24 hours."
+	}
+	],
+	"reactions": [],
+	"legendary_actions": []
+},
+{
+	"index": 43,
+	"name": "Hobgoblin Devastator",
+	"ref": "Volo",
+	"size": "medium",
+	"type": "humanoid",
+	"subtype": "goblinoid",
+	"alignment": "lawful evil",
+	"armor_class":  13,
+	"hit_points":   45,
+	"hit_dice": "7d8",
+	"speed": "Speed 30 ft.",
+	"strength":     13,
+	"dexterity":    12,
+	"constitution": 14,
+	"intelligence": 16,
+	"wisdom":       13,
+	"charisma":     11,
+	"skills" : "Arcana +5",
+	"saves" : "",
+	"damage_vulnerabilities": "",
+	"damage_resistances": "",
+	"damage_immunities": "",
+	"condition_immunities": "",
+	"senses": "darkvision 60 ft., passive Perception 11",
+	"languages": "Common, Goblin",
+	"challenge_rating":  4,
+	"special_abilities": [
+	{
+		"name": "Arcane Advantage",
+		"desc": "Once per turn, the hobgoblin can deal an extra 7 (2d6) damage to a creature it hits with a damaging spell attack if that target is within 5 feet of an ally of the hobgoblin and that ally isn't incapacitated."
+	},
+	{
+		"name": "Army Arcana",
+		"desc": "When the hobgoblin casts a spell that causes damage or that forces other creatures to make a saving throw, it can choose itself and any number of allies to be immune to the damage caused by the spell and to succeed on the required saving throw."
+	},
+	{
+		"name": "Spellcasting",
+		"desc": "The hobgoblin is a 7th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 13, +S to hit with spell attacks). It has the following wizard spells prepared: Cantrips (at will}: acid splash,fire bolt, ray offrost, shocking grasp 1st level (4 slots):fog cloud, magic missile, thunderwave 2nd level (3 slots): gust ofwind, Melfs acid arrow, scorching ray 3rd level (3 slots):fireball, fly, lightning bolt 4th level (1 slot): ice storm"
+	}
+	],
+	"actions": [
+	{
+		"name": "Quarterstaff",
+		"desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (ld6 + 1) bludgeoning damage, or 5 (1d8 + 1) bludgeoning damage if used with two hands."
+	}
+	],
+	"reactions": [],
+	"legendary_actions": []
+},
+{
+	"index": 44,
+	"name": "hobgoblin Iron Shadow",
+	"ref": "Volo",
+	"size": "medium",
+	"type": "humanoid",
+	"subtype": "goblinoid",
+	"alignment": "lawful evil",
+	"armor_class":  15,
+	"hit_points":   32,
+	"hit_dice": "5d8",
+	"speed": "Speed 40 ft.",
+	"strength":     14,
+	"dexterity":    16,
+	"constitution": 15,
+	"intelligence": 14,
+	"wisdom":       15,
+	"charisma":     11,
+	"skills" : "Acrobatics +5, Athletics +4, Stealth +5",
+	"saves" : "",
+	"damage_vulnerabilities": "",
+	"damage_resistances": "",
+	"damage_immunities": "",
+	"condition_immunities": "",
+	"senses": "darkvision 60 ft., passive Perception 12",
+	"languages": "Common, Goblin",
+	"challenge_rating":  2,
+	"special_abilities": [
+	{
+		"name": "Spellcasting",
+		"desc": "The hobgoblin is a 2nd-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 12, +4 to hit with spell attacks). It has the following wizard spells prepared: Cantrips (at will): minor illusion, prestidigitation, true strike 1st level (3 slots): charm person, disguise self, expeditious retreat, silent image"
+	},
+	{
+		"name": "Unarmored Defense",
+		"desc": "While the hobgoblin is wearing no armor and wielding no shield, its AC includes its Wisdom modifier."
+	}
+	],
+	"actions": [
+	{
+		"name": "Multiattack",
+		"desc": "The hobgoblin makes four attacks, each of which can be an unarmed strike or a dart attack. It can also use Shadow Jaunt once, either before or after one of the attacks."
+	},
+	{
+		"name": "Unarmed Strike",
+		"desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) bludgeoning damage."
+	},
+	{
+		"name": "Dart",
+		"desc": "Ranged Weapon Attack. +5 to hit, range 20/60 ft., one target. Hit: 5 (1d4 + 3) piercing damage."
+	},
+	{
+		"name": "Shadow Jaunt",
+		"desc": "The hobgoblin magically teleports, along with any equipment it is wearing or carrying, up to 30 feet to an unoccupied space it can see. Both the space it is leaving and its destination must be in dim light or darkness."
+	}
+	],
+	"reactions": [],
+	"legendary_actions": []
+},
+{
+	"index": 45,
+	"name": "Ki-rin",
+	"ref": "Volo",
+	"size": "huge",
+	"type": "celestial",
+	"subtype": "",
+	"alignment": "lawful good",
+	"armor_class":  20,
+	"hit_points":  152,
+	"hit_dice": "16d12",
+	"speed": "Speed 60 ft., fly 120 ft. (hover)",
+	"strength":     21,
+	"dexterity":    16,
+	"constitution": 16,
+	"intelligence": 19,
+	"wisdom":       20,
+	"charisma":     20,
+	"skills" : "Perception +9, Insight +9, Religion +8",
+	"saves" : "",
+	"damage_vulnerabilities": "",
+	"damage_resistances": "",
+	"damage_immunities": "poison",
+	"condition_immunities": "poisoned",
+	"senses": "blindsight 30 ft., darkvision 120 ft., passive Perception 19",
+	"languages": "all, telepathy 120 ft.",
+	"challenge_rating": 12,
+	"special_abilities": [
+	{
+		"name": "Innate Spellcasting",
+		"desc": "The ki-rin's innate spellcasting ability is Charisma (spell save DC 17). The ki-rin can innately cast the following spells, requiring no material components: At will: gaseous form, major image (6th-level version), wind walk 1/day: create food and water"
+	},
+	{
+		"name": "Legendary Resistance",
+		"desc": "(3/Day). If the ki-rin fails a saving throw, it can choose to succeed instead."
+	},
+	{
+		"name": "Magic Resistance",
+		"desc": "The ki-rin has advantage on saving throws against spells and other magical effects."
+	},
+	{
+		"name": "Magic Weapons",
+		"desc": "The ki-rin's weapon attacks are magical"
+	},
+	{
+		"name": "spellcasting",
+		"desc": "Cantrips (at will): light, mending, sacred flame, spare the dying, thaumaturgy 1st level (4 slots): command, cure wounds, detect evil and good, protection from evil and good, sanctuary 2nd level (3 slots): calm emotions, lesser restoration, silence 3rd level (3 slots): dispel magic, remove curse, sending 4th level (3 slots): banishment.freedom of movement, guardian offaith 5th level (3 slots): greater restoration, mass cure wounds, scrying 6th level (1 slot): heroes'feast, true seeing 7th level (1 slot): etherealness, plane shift 8th level (1 slot): control weather 9th level (1 slot): true resurrection"
+	}
+	],
+	"actions": [
+	{
+		"name": "Multiattack",
+		"desc": "The ki-rin makes three attacks: two with its hooves and one with its horn."
+	},
+	{
+		"name": "Hoof",
+		"desc": "Melee Weapon Attack: +9 to hit, reach 15 ft., one target.  Hit: 10 (2d4 + 5) bludgeoning damage."
+	},
+	{
+		"name": "Horn",
+		"desc": "Melee Weapon Attack: +9 to hit, reach 5 ft., one target.  Hit: 14 (2d8 + 5) piercing damage."
+	}
+	],
+	"reactions": [],
+	"legendary_actions": [
+	{
+		"name": "Detect",
+		"desc": "The ki-rin makes a Wisdom (Perception} check or a Wisdom (Insight) check."
+	},
+	{
+		"name": "Smite",
+		"desc": "The ki-rin makes a hoof attack or casts sacred flame."
+	},
+	{
+		"name": "Move",
+		"desc": "The ki-rin moves up to its half speed without provoking opportunity attacks."
+	}
+	],
+	"regional_effects": [
+	{
+		"name": "Water",
+		"desc": "Water flows pure within 3 miles of a ki-rin's lair. Any purposeful corruption of the water lasts for no longer than 3 minutes."
+	},
+	{
+		"name": "Animals",
+		"desc": "Animals, plants, and good creatures within 3 miles of the ki-rin's lair gain vigor as they evolve toward an idealized form. Such creatures are rarely aggressive toward others that aren't normally prey. Evil creatures can't tolerate the holy atmosphere within the same distance, and usually choose to live much farther from the domain of a ki-rin."
+	},
+	{
+		"name": "Curses",
+		"desc": "Curses, diseases, and poisons affecting good-aligned creatures are suppressed when those creatures are within 3 miles of the lair."
+	},
+	{
+		"name": "control weather",
+		"desc": "A ki-rin can cast control weather while it is within 3 miles of its lair. The spell's point of origin is always the point outdoors closest to the center of its lair. The ki-rin doesn't need to maintain a clear path to the sky or to concentrate for the change in weather to persist."
+	},
+	{
+		"name": "free fall",
+		"desc": "Within 3 miles of the lair, winds buoy non-evil creatures that fall due to no act of the ki-rin or its allies. Such creatures descend at a rate of 60 feet per round and take no falling damage."
+	}
+	]
+},
+{
+	"index": 46,
+	"name": "Kobold Dragonshield",
+	"ref": "Volo",
+	"size": "small",
+	"type": "humanoid",
+	"subtype": "kobold",
+	"alignment": "lawful evil",
+	"armor_class":  15,
+	"hit_points":   44,
+	"hit_dice": "8d6",
+	"speed": "Speed 20 ft.",
+	"strength":     12,
+	"dexterity":    15,
+	"constitution": 14,
+	"intelligence":  8,
+	"wisdom":        9,
+	"charisma":     10,
+	"skills" : "Perception +1",
+	"saves" : "",
+	"damage_vulnerabilities": "",
+	"damage_resistances": "see Dragon's Resistance below",
+	"damage_immunities": "",
+	"condition_immunities": "",
+	"senses": "darkvision 60 ft., passive Perception 11",
+	"languages": "Common, Draconic",
+	"challenge_rating": 1,
+	"special_abilities": [
+	{
+		"name": "Dragon's Resistance",
+		"desc": "The kobold has resistance to a type of damage based on the color of dragon that invested it with power (choose or roll a d1O): 1-2, acid (black); 3-4, cold (white); 5-6, fire (red); 7-8, lightning (blue); 9-10, poison (green)."
+	},
+	{
+		"name": "Heart of the Dragon",
+		"desc": "If the kobold is frightened or paralyzed by an effect that allows a saving throw, it can repeat the save at the start of its turn to end the effect on itself and all kobolds within 30 feet of it. Any kobold that benefits from this trait (including the dragonshield) has advantage on its next attack roll."
+	},
+	{
+		"name": "Pack Tactics",
+		"desc": "The kobold has advantage on an attack roll against a creature if at least one of the kobold's allies is within 5 feet of the creature and the ally isn't incapacitated."
+	},
+	{
+		"name": "Sunlight Sensitivity",
+		"desc": " While in sunlight, the kobold has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight."
+	}
+	],
+	"actions": [
+	{
+		"name": "Multiattack",
+		"desc": "The kobold makes two melee attacks."
+	},
+	{
+		"name": "Spear",
+		"desc": "Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack."
+	}
+	],
+	"reactions": [],
+	"legendary_actions": []
+},
+{
+	"index": 47,
+	"name": "Kobold Inventor",
+	"ref": "Volo",
+	"size": "small",
+	"type": "humanoid",
+	"subtype": "kobold",
+	"alignment": "lawful evil",
+	"armor_class":  15,
+	"hit_points":   13,
+	"hit_dice": "3d6",
+	"speed": "Speed 30 ft.",
+	"strength":      7,
+	"dexterity":    15,
+	"constitution": 12,
+	"intelligence":  8,
+	"wisdom":        7,
+	"charisma":      8,
+	"skills" : "Perception +0",
+	"saves" : "",
+	"damage_vulnerabilities": "",
+	"damage_resistances": "",
+	"damage_immunities": "",
+	"condition_immunities": "",
+	"senses": "darkvision 60 ft., passive Perception 10",
+	"languages": "Common, Draconic",
+	"challenge_rating": 0.25,
+	"special_abilities": [
+	{
+		"name": "Pack Tactics",
+		"desc": "The kobold has advantage on an attack roll against a creature if at least one of the kobold's allies is within 5 feet of the creature and the ally isn't incapacitated."
+	},
+	{
+		"name": "Sunlight Sensitivity",
+		"desc": " While in sunlight, the kobold has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight."
+	}
+	],
+	"actions": [
+	{
+		"name": "Dagger",
+		"desc": "Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft.  or range 20/60 ft., one target. Hit: 4 (1d4 + 2) piercing damage."
+	},
+	{
+		"name": "Sling",
+		"desc": "Ranged Weapon Attack: +4 to hit, range 30/120 ft., one target. Hit: 4 (1d4 + 2) bludgeoning damage."
+	},
+	{
+		"name": "Weapon Invention",
+		"desc": "The kobold uses one of the following options (roll a d8 or choose one) the kobold can use each one no more than once per  day: 1. Acid. The kobold hurls a flask of acid. Ranged Weapon Attack: +4 to hit, range 5/20 ft., one target. Hit: 7 (2d6) acid damage.  2. Alchemist's Fire. The kobold throws a flask of alchemist's fire. Ranged Weapon Attack: +4 to hit, range 5/20 ft., one target. Hit: 2 (1 d4) fire damage at the start of each of the target's turns. A creature can end this damage by using its action to make a DC 10 Dexterity check to extinguish the flames.  3. Basket of Centipedes. The kobold throws a small basket into a 5-foot-square space within 20 feet of it. A swarm ofinsects (centipedes) with 11 hit points emerges from the basket and rolls initiative. At the end of each of the swarm's turns, there's a 50 percent chance that the swarm disperses.  4. Green Slime Pot. The kobold throws a clay pot full of green slime at the target, and it breaks open on impact. Ranged Weapon Attack: +4 to hit, range 5/20 ft., one target. Hit: The target is covered in a patch of green slime (see chapter 5 of the Dungeon Master's Guide). Miss: A patch of green slime covers a randomly determined 5-foot-square section of wall or floor within 5 feet ofthe target.5. Rot Grub Pot. The kobold throws a clay pot into a 5-footsquare space within 20 feet of it, and it breaks open on impact.  A swarm of rot grubs (see appendix A) emerges from the shattered pot and remains a hazard in that square.  6. Scorpion on a Stick. The kobold makes a melee attack with a scorpion tied to the end of a 5-foot-long pole. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 1 piercing damage, and the target must make a DC 9 Constitution saving throw, taking 4 (ld8) poison damage on a failed save, or half as much damage on a successful one.  7. Skunk in a Cage. The kobold releases a skunk into an unoccupied space within 5 feet ofit. The skunk has a walking speed of 20 feet, AC 10, 1 hit point, and no effective attacks. It rolls initiative and, on its turn, uses its action to spray musk at a random creature within 5 feet of it. The target must make a DC 8. Wasp Nest in a Bag. The kobold throws a small bag into a S-foot-square space within 20 feet of it. A swarm ofinsects (wasps) with 11 hit points emerges from the bag and rolls initiative. At the end of each of the swarm's turns, there's a 50 percent chance that the swarm disperses.  9 Constitution saving throw. On a failed save, the target retches and can't take actions for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. A creature that doesn't need to breathe or is immune to poison automatically succeeds on the saving throw. Once the skunk has sprayed its musk, it can't do so again until it finishes a short or long rest."
+	}
+	],
+	"reactions": [],
+	"legendary_actions": []
+},
+{
+	"index": 48,
+	"name": "Kobold Scale Sorcerer",
+	"ref": "Volo",
+	"size": "small",
+	"type": "humanoid",
+	"subtype": "kobold",
+	"alignment": "lawful evil",
+	"armor_class":  15,
+	"hit_points":   27,
+	"hit_dice": "5d6",
+	"speed": "Speed 30 ft.",
+	"strength":      7,
+	"dexterity":    15,
+	"constitution": 14,
+	"intelligence": 10,
+	"wisdom":        9,
+	"charisma":     14,
+	"skills" : "Arcana +2, Medicine +1",
+	"saves" : "",
+	"damage_vulnerabilities": "",
+	"damage_resistances": "",
+	"damage_immunities": "",
+	"condition_immunities": "",
+	"senses": "darkvision 60 ft., passive Perception 9",
+	"languages": "Common, Draconic",
+	"challenge_rating": 1,
+	"special_abilities": [
+	{
+		"name": "Pack Tactics",
+		"desc": "The kobold has advantage on an attack roll against a creature if at least one of the kobold's allies is within 5 feet of the creature and the ally isn't incapacitated."
+	},
+	{
+		"name": "Sunlight Sensitivity",
+		"desc": " While in sunlight, the kobold has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight."
+	},
+	{
+		"name": "Spellcasting",
+		"desc": "The kobold is a 3rd-level spellcaster. Its spellcasting ability is Charisma (spell save DC 12, +4 to hit with spell attacks). It has the following sorcerer spells prepared: Cantrips (at will): fire bolt, mage hand, mending, poison spray 1st level (4 slots): charm person, chromatic orb, expeditious retreat 2nd level (2 slots): scorching ray"
+	}
+	],
+	"actions": [
+	{
+		"name": "Dagger",
+		"desc": "Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft.  or range 20/60 ft., one target. Hit: 4 (1d4 + 2) piercing damage."
+	}
+	],
+	"reactions": [],
+	"legendary_actions": []
+},
+{
+	"index": 49,
+	"name": "Korred",
+	"ref": "Volo",
+	"size": "small",
+	"type": "fey",
+	"subtype": "",
+	"alignment": "chaotic neutral",
+	"armor_class":  17,
+	"hit_points":  102,
+	"hit_dice": "12d6",
+	"speed": "Speed 30 ft., burrow 30 ft.",
+	"strength":     23,
+	"dexterity":    14,
+	"constitution": 20,
+	"intelligence": 10,
+	"wisdom":       15,
+	"charisma":      9,
+	"skills" : "Athletics +9, Perception +5, Stealth +5",
+	"saves" : "",
+	"damage_vulnerabilities": "",
+	"damage_resistances": "bludgeoning, piercing, and slashing from nonmagical attacks",
+	"damage_immunities": "",
+	"condition_immunities": "",
+	"senses": "darkvision 120 ft., tremorsense 120 ft., passive Perception 15",
+	"languages": "Dwarvish , Gnomish, Sylvan, Terran, Undercommon",
+	"challenge_rating":  7,
+	"special_abilities": [
+	{
+		"name": "Command Hair",
+		"desc": "The korred has at least one 50-foot-long rope woven out of its hair. As a bonus action, the korred commands one such rope within 30 feet of it to move up to 20 feet and entangle a Large or smaller creature that the korred can see.  The target must succeed on a DC 13 Dexterity saving throw or become grappled by the rope (escape DC 13). Until this grapple ends, the target is restrained. The korred can use a bonus action to release the target, which is also freed if the korred dies or becomes incapacitated.  A rope of korred hair has AC 20 and 20 hit points. It regains l hit point at the start of each of the korred's turns while it has at least l hit point and the korred is alive. If the rope drops to 0 hit points, it is destroyed."
+	},
+	{
+		"name": "Innate Spellcasting",
+		"desc": "The korred's innate spellcasting ability is Wisdom (save DC 13). It can innately cast the following spells, requiring no components: At will: commune with nature, meld into stone, stone shape 1/day each: conjure elemental (as 6th-level spell, galeb duhr, gargoyle, earth elemental, or xorn only), Otto's irresistible dance"
+	},
+	{
+		"name": "Stone Camouflage",
+		"desc": "The korred has advantage on Dexterity (Stealth) checks made to hide in rocky terrain."
+	},
+	{
+		"name": "Stone's Strength",
+		"desc": "While on the ground, the korred deals 2 extra dice of damage with any weapon attack (included in its attacks)."
+	}
+	],
+	"actions": [
+	{
+		"name": "Multiattack",
+		"desc": "The korred makes two attacks with its greatclub or hurls two rocks."
+	},
+	{
+		"name": "Greatclub",
+		"desc": "Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 10 (1d8 + 6) bludgeoning damage, or 19 (3d8 + 6) bludgeoning damage if the korred is on the ground."
+	},
+	{
+		"name": "Rock",
+		"desc": "Ranged Weapon Attack: +9 to hit, range 60/120 ft., one target. Hit: l S (2d8 + 6) bludgeoning damage, or 24 (4d8 + 6) bludgeoning damage if the korred is on the ground."
 	}
 	],
 	"reactions": [],
